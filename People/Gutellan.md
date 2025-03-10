@@ -1,0 +1,1 @@
+Ruler who reuinited the warring factions of Yuna. Partner of [Albert](People/Albert.md).

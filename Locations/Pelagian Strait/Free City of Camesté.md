@@ -1,6 +1,6 @@
 Home of the Pelagian people.
 Aesthetic touchstones: New Lions Arch from GW2
-![](Greater%20Province%20of%20Cameste.png)Cameste Notes
+![](Gallery/Greater%20Province%20of%20Cameste.png)Cameste Notes
 
 Settlements/Steadings:
 	Holy Republic of Cameste

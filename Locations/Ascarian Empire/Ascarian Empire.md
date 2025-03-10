@@ -1,4 +1,4 @@
-![](Capture.png)# Description
+![](Gallery/Capture.png)# Description
 - inspired by Roman, Byzantine and Persian empires - traditional fantasy setting but with a *twist*
 
 # History 
@@ -7,7 +7,7 @@
 # Government
 - Divinely ordained emperor
 - Persian-style fealty system (satrapy)? with conquered kingdoms retaining a degree of cultural independence but ultimately loyal to the emperor 
-![](Ascarian%20Royal%20Crest.png)
+![](Gallery/Ascarian%20Royal%20Crest.png)
 # Economy
 - Currency - Crowns (♕)
 

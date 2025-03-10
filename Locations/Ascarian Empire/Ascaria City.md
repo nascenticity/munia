@@ -1,1 +1,1 @@
-- capital of the Ascarian Empire![](ascaria_city.png)
+- capital of the Ascarian Empire![](Gallery/ascaria_city.png)

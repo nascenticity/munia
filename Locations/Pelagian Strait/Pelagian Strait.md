@@ -1,1 +1,1 @@
-Once the Isthmus of Artas; the goddess Camestia carved a channel here and established a city for her children, the Pelagians.![](Pelagian%20Strait%20Region_Labels.png)
+Once the Isthmus of Artas; the goddess Camestia carved a channel here and established a city for her children, the Pelagians.![](Gallery/Pelagian%20Strait%20Region_Labels.png)

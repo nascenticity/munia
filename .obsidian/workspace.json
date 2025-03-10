@@ -4,83 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b929c63612bfe44b",
+        "id": "dec294b19afc1c3c",
         "type": "tabs",
         "children": [
           {
-            "id": "ca3238ac1b39e307",
+            "id": "660a08b15567319f",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Pashana.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pashana"
-            }
-          },
-          {
-            "id": "796a690e61cb16ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Yuna Highlands/Vesos Mountains.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vesos Mountains"
-            }
-          },
-          {
-            "id": "0855aa9b816bf174",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Ascarian Empire/Sanry Mountains.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sanry Mountains"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -230,54 +169,54 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0855aa9b816bf174",
+  "active": "660a08b15567319f",
   "lastOpenFiles": [
-    "Coter Region.png",
-    "Locations/Yuna Highlands/Yuna Highlands.md",
-    "ascaria_city.png",
-    "Ascarian Royal Crest.png",
-    "Capture.png",
-    "Extras (Fate Core).md",
-    "Coter.png",
-    "greece-corfu-old-town.jpeg",
-    "Greater Province of Cameste.png",
-    "the-carpathians-1143376_1280.jpg",
-    "the-carpathians-1143376_1280 1.jpg",
-    "taul-tapului-retezat-mountains-1.jpg",
-    "workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli.jpeg",
-    "Locations/Pelagian Strait/Free City of Camesté.md",
-    "Locations/Pelagian Strait/Pelagian Strait.md",
-    "Locations/Ascarian Empire/Pearlgrove Town.md",
-    "Locations/Ascarian Empire/Sanry Mountains.md",
-    "Locations/Ascarian Empire/Coter.md",
-    "Locations/Ascarian Empire/Ascarian Empire.md",
-    "Locations/Ascarian Empire/Ascaria City.md",
-    "Untitled.canvas",
+    "README.md",
+    "History/World History.md",
+    "People/Gutellan.md",
+    "People/Albert.md",
+    "Factions/Boatley Airships Inc..md",
+    "Locations/Pashana.md",
+    "Locations/Yuna Highlands/Vesos Mountains.md",
+    "Gallery/ascaria_city.png",
+    "docs/index.html",
+    "docs/docs/README.html",
+    "docs/docs/_config.yml",
+    "docs/docs/Player Characters/Myla.html",
+    "docs/docs/Player Characters/Mr Dittles.html",
+    "docs/docs/Player Characters/Maritza.html",
+    "docs/docs/Player Characters/image 1.png",
+    "docs/docs/Player Characters/image.png",
+    "docs/docs/Player Characters/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
+    "docs/docs/Player Characters",
+    "docs/docs/People/Ascarion I.html",
+    "docs/docs/People",
+    "docs/docs/Notes/Game assets/Random Tables/Pasted image 20250218182120.jpg",
+    "docs/docs/Notes/Game assets/Random Tables/Pasted image 20250218182105.jpg",
+    "docs/docs/Notes/Game assets/Random Tables",
+    "docs/docs/Maps/World Map (Blank).png",
+    "docs/docs/lib/media/6155340132a851f6089e.svg",
+    "docs/docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 2.jpeg",
+    "docs/docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 1.jpeg",
+    "Player Characters/Myla.md",
+    "Player Characters/Mr Dittles.md",
+    "People/Ascarion I.md",
     "Notes/Game notes & records/2025-03-04.md",
     "Notes/Game notes & records/2025-02-25.md",
     "Notes/Game notes & records/2024-9-3.md",
-    "Notes/Game notes & records/2024-8-24.md",
-    "Notes/Game notes & records",
     "Notes/Game assets/Random Tables/Random Encounter Tables(Yuna Highlands).md",
-    "Notes/Game assets/Traditional Magic for Fate v0.1.pdf",
-    "Notes/Game assets/The Queen’s Talon (Airship) Character Sheet .pdf",
-    "Notes/Game assets/Random Tables",
-    "Notes/Game assets/Fate_Core_Character_Sheet_-_Form_Fill.pdf",
-    "Notes/Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf",
-    "Notes/Game assets",
-    "Notes",
-    "Locations/Ederint.md",
-    "Locations/Pashana.md",
-    "Locations/Yuna Highlands/Brithen Mountains.md",
-    "Locations/Yuna Highlands/Vesos Mountains.md",
     "Maps/World Map (Blank).md",
-    "README.md",
-    "Factions/Boatley Airships Inc..md",
-    "Lore/List of Deities.md",
-    "Locations/Yuna Highlands",
-    "Locations/Pelagian Strait",
-    "Player Characters/Maritza.md",
     "Lore/The Queen’s Talon (Airship).md",
-    "Lore/General Setting Notes.md"
+    "Lore/List of Sapient Species.md",
+    "Lore/List of Deities.md",
+    "Lore/General Setting Notes.md",
+    "Locations/Yuna Highlands/Yuna Highlands.md",
+    "Locations/Yuna Highlands/Towns End.md",
+    "Locations/Yuna Highlands/Naven.md",
+    "Locations/Pelagian Strait/Pelagian Strait.md",
+    "Locations/Pelagian Strait/Free City of Camesté.md",
+    "Locations/Ascarian Empire/Sanry Mountains.md",
+    "Locations/Ascarian Empire/Pearlgrove Town.md",
+    "Untitled.canvas"
   ]
 }
