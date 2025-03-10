@@ -1,0 +1,22 @@
+- Camestia
+- Lord of Sleep
+- Lady of Nightmares (Matilda)
+	- Matilda's Children
+- The Old Gods (Yunaea)
+	The list of deities worshiped of old in the highlands is long, and contains many deities who are also revered in other lands. Those most commonly worshiped include:
+	- Egra, Lord of the Heavens - co-creator deity & head of the pantheon, associated with storms, fertility, and the sun. Equated with the Ascarian god Berus.
+	- Maia, Lady of Earth - co-creator deity & maternal earth goddess, protector of livestock and farms (considered the same as the Ascarian goddess Munia)
+	- Astara, Lady of War - associated with warfare, strategy, the stars, and gender non-conformity 
+	- Vashnak, Lord of Iron - God of the forge, common metals such as iron or bronze, and of skilled crafts not protected by another deity. Sometimes considered analogous with the Dwarven creator deity, Udir.
+	- Guran, Lord of the Threshold - god of hospitality, the home, and good relations between people.
+- The Imperial Pantheon 
+	- Ascaros, head of pantheon, god of the sun and emperors     
+	- Enas, god of the major moon 
+	- Camestia, goddess of the minor moon 
+	- Astara, goddess of the stars, wisdom, and divination magic 
+	- Kasher, god of the underworld 
+	- Korin, god of time and fate
+	- Sunas, god of the hunt and youth
+	- Munia, maternal earth goddess
+	- Berus, god of storms and destruction 
+	- and more…
