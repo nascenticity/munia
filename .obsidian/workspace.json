@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b409242cb82ea3e4",
+        "id": "b929c63612bfe44b",
         "type": "tabs",
         "children": [
           {
-            "id": "2a2ec68a73652a0b",
+            "id": "ca3238ac1b39e307",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,7 +23,7 @@
                   "sortOrder": "alphabetical",
                   "showSearch": false,
                   "searchQuery": "",
-                  "backlinkCollapsed": false,
+                  "backlinkCollapsed": true,
                   "unlinkedCollapsed": true
                 }
               },
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#playercharacters",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,16 +177,31 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "index-notes:New note by copying metadata of focused note": false
     }
   },
-  "active": "2a2ec68a73652a0b",
+  "active": "ca3238ac1b39e307",
   "lastOpenFiles": [
-    "General Setting Notes.md",
+    "Locations/Yuna Highlands.md",
     "README.md",
+    "Player Characters/Maritza.md",
     "Player Characters/Myla.md",
     "Player Characters/Mr. Dittles.md",
-    "Player Characters/Maritza.md",
+    "World History.md",
+    "The Queen’s Talon (Airship).md",
+    "List of Sapient Species.md",
+    "General Setting Notes.md",
+    "Organizations/Boatley Airships Inc..md",
+    "Notes/Game notes & records/2025-03-04.md",
+    "Notes/Game notes & records/2025-02-25.md",
+    "Notes/Game notes & records/2024-9-3.md",
+    "Notes/Game assets/Random Tables/Random Encounter Tables(Yuna Highlands).md",
+    "Locations/Towns End.md",
+    "Locations/Naven.md",
+    "Locations/Ascarian Empire.md",
+    "notebook.zim",
     "Untitled.md",
     "Notes"
   ]

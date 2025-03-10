@@ -1,0 +1,10 @@
+{
+	"id": "vault-toc",
+	"name": "Vault Table of Contents",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "Generate Table of Contents for a Vault.",
+	"author": "fbjorn",
+	"authorUrl": "https://github.com/fbjorn",
+	"isDesktopOnly": false
+}
