@@ -1,6 +1,4 @@
----
-tags: []
----
+
 # Locations
 - 
 - [Ascarian Empire](Locations/Ascarian%20Empire.md)
