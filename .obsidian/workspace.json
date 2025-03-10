@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Locations/Ascarian Empire.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Ascarian Empire"
             }
           }
         ]
@@ -180,10 +180,10 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bb0bb18c1ec2c809",
+  "active": "ca3238ac1b39e307",
   "lastOpenFiles": [
-    "Player Characters/Myla.md",
     "README.md",
+    "Player Characters/Myla.md",
     "Maps",
     "Locations/Yuna Highlands.md",
     "Lore/General Setting Notes.md",

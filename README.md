@@ -1,6 +1,5 @@
 
-# Locations
-- 
+# Locations 
 - [Ascarian Empire](Locations/Ascarian%20Empire.md)
 - [Holy City of Camestia](Locations/Holy%20City%20of%20Camestia.md)
 - [Yuna Highlands](Locations/Yuna%20Highlands.md)
