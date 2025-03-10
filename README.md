@@ -9,8 +9,9 @@
 - [The Queen’s Talon (Airship)](Lore/The%20Queen’s%20Talon%20(Airship).md)
 ## Maps
 - [World Map (Blank)](Maps/World%20Map%20(Blank).md)
-## Organizations
+## Factions
 - [Boatley Airships Inc.](Factions/Boatley%20Airships%20Inc..md)
+- [St. Pigeonation’s magic school](Factions/St.%20Pigeonation’s%20magic%20school.md)
 ## People
 - [Albert](People/Albert.md)
 - [Ascarion I](People/Ascarion%20I.md)
