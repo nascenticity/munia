@@ -1,0 +1,1 @@
+- Site of the legendary battle where Emperor Ascarion I defeated the great dragon

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Myla.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Myla"
+              "title": "README"
             }
           }
         ]
@@ -182,29 +182,37 @@
   },
   "active": "ca3238ac1b39e307",
   "lastOpenFiles": [
+    "Lore/_Lore.md",
+    "README.md",
+    "Player Characters/_Player Characters.md",
+    "Organizations/_Organizations.md",
+    "Organizations/Boatley Airships Inc..md",
+    "Lore/General Setting Notes.md",
+    "People/_People.md",
+    "History/_History.md",
+    "Locations/_Locations.md",
+    "Locations/Ascaria City.md",
+    "_munia.md",
+    "Extras (Fate Core).md",
+    "People/Ascarion I.md",
+    "People",
+    "History",
+    "Locations/Ascarian Empire.md",
+    "Locations/Mt. Dagor.md",
+    "Player Characters/Myla.md",
     "Player Characters/Mr Dittles.md",
     "Player Characters/Maritza.md",
-    "Organizations/Boatley Airships Inc..md",
     "Lore/World Map (Blank).png",
-    "Lore/World History.md",
+    "History/World History.md",
     "Lore/The Queen’s Talon (Airship).md",
     "Lore/List of Sapient Species.md",
-    "Lore/General Setting Notes.md",
     "Locations/Yuna Highlands.md",
     "Locations/Towns End.md",
     "Locations/Naven.md",
     "Locations/Holy City of Camestia.md",
-    "Locations/Ascarian Empire.md",
-    "README.md",
-    "Player Characters/Myla.md",
     "Maps",
     "Locations",
     "Untitled.md",
-    "Player Characters/Mr. Dittles.md",
-    "Notes/Game notes & records/2025-03-04.md",
-    "Notes/Game notes & records/2025-02-25.md",
-    "Notes/Game notes & records/2024-9-3.md",
-    "Notes/Game assets/Random Tables/Random Encounter Tables(Yuna Highlands).md",
     "notebook.zim",
     "Notes"
   ]
