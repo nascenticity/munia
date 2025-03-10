@@ -10,6 +10,7 @@
 - [Towns End](Locations/Towns%20End.md)
 - [Yuna Highlands](Locations/Yuna%20Highlands.md)
 ## Lore
+- [Deities](Lore/Deities.md)
 - [General Setting Notes](Lore/General%20Setting%20Notes.md)
 - [List of Sapient Species](Lore/List%20of%20Sapient%20Species.md)
 - [The Queen’s Talon (Airship)](Lore/The%20Queen’s%20Talon%20(Airship).md)
