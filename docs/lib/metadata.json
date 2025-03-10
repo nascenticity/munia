@@ -1,6 +1,6 @@
 {
   "vaultName": "munia",
-  "lastExport": 1741644680900,
+  "lastExport": 1741645501433,
   "pluginVersion": "1.8.01",
   "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title show-ribbon",
   "useCustomHeadContent": false,
@@ -111,517 +111,517 @@
   ],
   "fileInfo": {
     "Factions/Boatley Airships Inc..md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 244,
       "exportedPath": "Factions/Boatley Airships Inc..html",
       "dependencies": []
     },
     "Factions/St. Pigeonation’s magic school.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 0,
       "exportedPath": "Factions/St. Pigeonation’s magic school.html",
       "dependencies": []
     },
     "Gallery/78ba9564-070e-4bf2-9517-368878f9dfb5.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 458650,
       "exportedPath": "Gallery/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
       "dependencies": []
     },
     "Gallery/ascaria_city.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 7333479,
       "exportedPath": "Gallery/ascaria_city.png",
       "dependencies": []
     },
     "Gallery/Ascarian Royal Crest.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 401646,
       "exportedPath": "Gallery/Ascarian Royal Crest.png",
       "dependencies": []
     },
     "Gallery/Capture.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1144556,
       "exportedPath": "Gallery/Capture.png",
       "dependencies": []
     },
     "Gallery/Coter.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 251399,
       "exportedPath": "Gallery/Coter.png",
       "dependencies": []
     },
     "Gallery/Coter Region.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1394788,
       "exportedPath": "Gallery/Coter Region.png",
       "dependencies": []
     },
     "Gallery/Esmeralda_candy_thief.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 123840,
       "exportedPath": "Gallery/Esmeralda_candy_thief.jpg",
       "dependencies": []
     },
     "Gallery/Greater Province of Cameste.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 772869,
       "exportedPath": "Gallery/Greater Province of Cameste.png",
       "dependencies": []
     },
     "Gallery/greece-corfu-old-town.jpeg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 67351,
       "exportedPath": "Gallery/greece-corfu-old-town.jpeg",
       "dependencies": []
     },
     "Gallery/image.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 101239,
       "exportedPath": "Gallery/image.png",
       "dependencies": []
     },
     "Gallery/image 1.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 257768,
       "exportedPath": "Gallery/image 1.png",
       "dependencies": []
     },
     "Gallery/Pelagian Strait Region.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 3842637,
       "exportedPath": "Gallery/Pelagian Strait Region.png",
       "dependencies": []
     },
     "Gallery/Pelagian Strait Region_Labels.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 4014019,
       "exportedPath": "Gallery/Pelagian Strait Region_Labels.png",
       "dependencies": []
     },
     "Gallery/taul-tapului-retezat-mountains-1.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 158824,
       "exportedPath": "Gallery/taul-tapului-retezat-mountains-1.jpg",
       "dependencies": []
     },
     "Gallery/the-carpathians-1143376_1280.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 164678,
       "exportedPath": "Gallery/the-carpathians-1143376_1280.jpg",
       "dependencies": []
     },
     "Gallery/the-carpathians-1143376_1280 1.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 164678,
       "exportedPath": "Gallery/the-carpathians-1143376_1280 1.jpg",
       "dependencies": []
     },
     "Gallery/Vega-Azucari_Family.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 227401,
       "exportedPath": "Gallery/Vega-Azucari_Family.jpg",
       "dependencies": []
     },
     "Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli.jpeg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 65370,
       "exportedPath": "Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli.jpeg",
       "dependencies": []
     },
     "Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 1.jpeg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 65370,
       "exportedPath": "Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 1.jpeg",
       "dependencies": []
     },
     "Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 2.jpeg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 65370,
       "exportedPath": "Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 2.jpeg",
       "dependencies": []
     },
     "History/World History.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 229,
       "exportedPath": "History/World History.html",
       "dependencies": []
     },
     "Locations/Ascarian Empire/Ascaria City.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 61,
       "exportedPath": "Locations/Ascarian Empire/Ascaria City.html",
       "dependencies": []
     },
     "Locations/Ascarian Empire/Ascarian Empire.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1164,
       "exportedPath": "Locations/Ascarian Empire/Ascarian Empire.html",
       "dependencies": []
     },
     "Locations/Ascarian Empire/Coter.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 139,
       "exportedPath": "Locations/Ascarian Empire/Coter.html",
       "dependencies": []
     },
     "Locations/Ascarian Empire/Mt. Dagor.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 81,
       "exportedPath": "Locations/Ascarian Empire/Mt. Dagor.html",
       "dependencies": []
     },
     "Locations/Ascarian Empire/Pearlgrove Town.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 225,
       "exportedPath": "Locations/Ascarian Empire/Pearlgrove Town.html",
       "dependencies": []
     },
     "Locations/Ascarian Empire/Sanry Mountains.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 197,
       "exportedPath": "Locations/Ascarian Empire/Sanry Mountains.html",
       "dependencies": []
     },
     "Locations/Pelagian Strait/Free City of Camesté.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 3720,
       "exportedPath": "Locations/Pelagian Strait/Free City of Camesté.html",
       "dependencies": []
     },
     "Locations/Pelagian Strait/Pelagian Strait.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 175,
       "exportedPath": "Locations/Pelagian Strait/Pelagian Strait.html",
       "dependencies": []
     },
     "Locations/Yuna Highlands/Brithen Mountains.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 65,
       "exportedPath": "Locations/Yuna Highlands/Brithen Mountains.html",
       "dependencies": []
     },
     "Locations/Yuna Highlands/Naven.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 333,
       "exportedPath": "Locations/Yuna Highlands/Naven.html",
       "dependencies": []
     },
     "Locations/Yuna Highlands/New Yunaean nation.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 0,
       "exportedPath": "Locations/Yuna Highlands/New Yunaean nation.html",
       "dependencies": []
     },
     "Locations/Yuna Highlands/Towns End.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 2664,
       "exportedPath": "Locations/Yuna Highlands/Towns End.html",
       "dependencies": []
     },
     "Locations/Yuna Highlands/Vesos Mountains.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 62,
       "exportedPath": "Locations/Yuna Highlands/Vesos Mountains.html",
       "dependencies": []
     },
     "Locations/Yuna Highlands/Yuna Highlands.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 17572,
       "exportedPath": "Locations/Yuna Highlands/Yuna Highlands.html",
       "dependencies": []
     },
     "Locations/Ederint.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 121,
       "exportedPath": "Locations/Ederint.html",
       "dependencies": []
     },
     "Locations/Locations.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 832,
       "exportedPath": "Locations/Locations.html",
       "dependencies": []
     },
     "Locations/Pashana.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 135,
       "exportedPath": "Locations/Pashana.html",
       "dependencies": []
     },
     "Lore/General Setting Notes.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1004,
       "exportedPath": "Lore/General Setting Notes.html",
       "dependencies": []
     },
     "Lore/List of Deities.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1402,
       "exportedPath": "Lore/List of Deities.html",
       "dependencies": []
     },
     "Lore/List of Sapient Species.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 258,
       "exportedPath": "Lore/List of Sapient Species.html",
       "dependencies": []
     },
     "Lore/The Queen’s Talon (Airship).md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1708,
       "exportedPath": "Lore/The Queen’s Talon (Airship).html",
       "dependencies": []
     },
     "Maps/World Map (Blank).png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 645714,
       "exportedPath": "Maps/World Map (Blank).png",
       "dependencies": []
     },
     "Maps/World Map (Blank).md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 35,
       "exportedPath": "Maps/World Map (Blank).html",
       "dependencies": []
     },
     "Notes/Game assets/Fate_Core_Character_Sheet_-_Form_Fill.pdf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 112648,
       "exportedPath": "Notes/Game assets/Fate_Core_Character_Sheet_-_Form_Fill.pdf",
       "dependencies": []
     },
     "Notes/Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 74702,
       "exportedPath": "Notes/Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf",
       "dependencies": []
     },
     "Notes/Game assets/IMG_3696.png": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1411167,
       "exportedPath": "Notes/Game assets/IMG_3696.png",
       "dependencies": []
     },
     "Notes/Game assets/The Queen’s Talon (Airship) Character Sheet .pdf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 224584,
       "exportedPath": "Notes/Game assets/The Queen’s Talon (Airship) Character Sheet .pdf/The Queen’s Talon (Airship) Character Sheet .pdf.pdf",
       "dependencies": []
     },
     "Notes/Game assets/Traditional Magic for Fate v0.1.pdf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 373417,
       "exportedPath": "Notes/Game assets/Traditional Magic for Fate v0.1.pdf",
       "dependencies": []
     },
     "Notes/Game notes & records/2024-8-24.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 315,
       "exportedPath": "Notes/Game notes & records/2024-8-24.html",
       "dependencies": []
     },
     "Notes/Game notes & records/2024-9-3.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1064,
       "exportedPath": "Notes/Game notes & records/2024-9-3.html",
       "dependencies": []
     },
     "Notes/Game notes & records/2025-02-25.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 2504,
       "exportedPath": "Notes/Game notes & records/2025-02-25.html",
       "dependencies": []
     },
     "Notes/Game notes & records/2025-03-04.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 2373,
       "exportedPath": "Notes/Game notes & records/2025-03-04.html",
       "dependencies": []
     },
     "Notes/Random Tables/Pasted image 20250218182105.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 67332,
       "exportedPath": "Notes/Random Tables/Pasted image 20250218182105.jpg",
       "dependencies": []
     },
     "Notes/Random Tables/Pasted image 20250218182120.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 309206,
       "exportedPath": "Notes/Random Tables/Pasted image 20250218182120.jpg",
       "dependencies": []
     },
     "Notes/Random Tables/Pasted image 20250218182135.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 303762,
       "exportedPath": "Notes/Random Tables/Pasted image 20250218182135.jpg",
       "dependencies": []
     },
     "Notes/Random Tables/Pasted image 20250218182157.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 392326,
       "exportedPath": "Notes/Random Tables/Pasted image 20250218182157.jpg",
       "dependencies": []
     },
     "Notes/Random Tables/Pasted image 20250218182213.jpg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 410658,
       "exportedPath": "Notes/Random Tables/Pasted image 20250218182213.jpg",
       "dependencies": []
     },
     "Notes/Random Tables/Random Encounter Tables(Yuna Highlands).md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1777,
       "exportedPath": "Notes/Random Tables/Random Encounter Tables(Yuna Highlands).html",
       "dependencies": []
     },
     "People/Albert.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 87,
       "exportedPath": "People/Albert.html",
       "dependencies": []
     },
     "People/Ascarion I.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 100,
       "exportedPath": "People/Ascarion I.html",
       "dependencies": []
     },
     "People/Gutellan.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 88,
       "exportedPath": "People/Gutellan.html",
       "dependencies": []
     },
     "People/People.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 79,
       "exportedPath": "People/People.html",
       "dependencies": []
     },
     "Player Characters/Inactive/Esmeralda Azucari.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 126,
       "exportedPath": "Player Characters/Inactive/Esmeralda Azucari.html",
       "dependencies": []
     },
     "Player Characters/Inactive/N3mo.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 41,
       "exportedPath": "Player Characters/Inactive/N3mo.html",
       "dependencies": []
     },
     "Player Characters/Maritza Reddington.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 1675,
       "exportedPath": "Player Characters/Maritza Reddington.html",
       "dependencies": []
     },
     "Player Characters/Mr Dittles.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 56,
       "exportedPath": "Player Characters/Mr Dittles.html",
       "dependencies": []
     },
     "Player Characters/Myla.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 25,
       "exportedPath": "Player Characters/Myla.html",
       "dependencies": []
     },
     "_config.yml": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 132,
       "exportedPath": "_config.yml",
       "dependencies": []
     },
     "README.md": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 887,
       "exportedPath": "README.html",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/6155340132a851f6089e.svg": {
-      "modifiedTime": 1741644680900,
+      "modifiedTime": 1741645501433,
       "sourceSize": 315,
       "exportedPath": "lib/media/6155340132a851f6089e.svg",
       "dependencies": []

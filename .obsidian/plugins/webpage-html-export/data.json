@@ -15,7 +15,7 @@
   "allowFoldingLists": true,
   "allowResizingSidebars": true,
   "logLevel": "warning",
-  "minifyHTML": true,
+  "minifyHTML": false,
   "makeNamesWebStyle": false,
   "onlyExportModified": true,
   "deleteOldFiles": true,

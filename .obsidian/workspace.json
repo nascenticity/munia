@@ -218,22 +218,57 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "bb0bb18c1ec2c809",
+  "floating": {
+    "id": "3c3e8137b300d5e3",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f90cbff087441418",
+        "type": "window",
+        "children": [
+          {
+            "id": "c25e1e97ab6956dc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "58651ffbf9da3ea0",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "README"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 190,
+        "y": 461,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "58651ffbf9da3ea0",
   "lastOpenFiles": [
-    "docs/index.html",
-    "README.md",
-    "docs/README.html",
-    "docs/_config.yml",
-    "docs/Player Characters/Inactive/N3mo.html",
-    "docs/Player Characters/Inactive/Esmeralda Azucari.html",
-    "docs/Player Characters/Inactive",
-    "docs/Player Characters",
-    "docs/People/Albert.html",
-    "docs/People",
-    "docs/Notes/Game assets/Fate_Core_Character_Sheet_-_Form_Fill.pdf",
-    "docs/Notes/Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf",
-    "docs/Maps/World Map (Blank).png",
-    "docs/Gallery/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
     "Player Characters/Myla.md",
     "Player Characters/Mr Dittles.md",
     "Player Characters/Maritza Reddington.md",
@@ -258,6 +293,20 @@
     "Locations/Yuna Highlands/New Yunaean nation.md",
     "Locations/Yuna Highlands/Naven.md",
     "Locations/Pelagian Strait/Pelagian Strait.md",
+    "Locations/Pelagian Strait/Free City of Camesté.md",
+    "Locations/Ascarian Empire/Sanry Mountains.md",
+    "docs/index.html",
+    "docs/README.html",
+    "docs/_config.yml",
+    "docs/Player Characters/Inactive/N3mo.html",
+    "docs/Player Characters/Inactive/Esmeralda Azucari.html",
+    "docs/Player Characters/Inactive",
+    "docs/Player Characters",
+    "docs/People/Albert.html",
+    "docs/People",
+    "docs/Notes/Game assets/Fate_Core_Character_Sheet_-_Form_Fill.pdf",
+    "docs/Maps/World Map (Blank).png",
+    "docs/Gallery/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
     "Gallery/Vega-Azucari_Family.jpg",
     "Gallery/Esmeralda_candy_thief.jpg",
     "Gallery/ascaria_city.png",
