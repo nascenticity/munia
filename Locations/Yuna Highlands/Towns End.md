@@ -32,7 +32,7 @@ Description: A village in the Yuna highlands on the edge of the wilderness, with
 	1. the river water might not be drinkable. algae bloom, connected to the fey?
 4. Hunters’ Lodge
 5. Old Zela’s Lady’s Hut
-6. East Bridge (connects to Road to [[Naven]]
+6. East Bridge (connects to Road to [[Locations/Yuna Highlands/Naven]]
 7. Road to Naven - most likely where the PCs came from
 
 # NPCs

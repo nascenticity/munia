@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Locations/Pashana.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Pashana"
+            }
+          },
+          {
+            "id": "796a690e61cb16ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Yuna Highlands/Vesos Mountains.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vesos Mountains"
+            }
+          },
+          {
+            "id": "0855aa9b816bf174",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Ascarian Empire/Ascarian Empire.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Ascarian Empire"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -177,43 +226,54 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false
+      "publish:Publish changes...": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ca3238ac1b39e307",
+  "active": "0855aa9b816bf174",
   "lastOpenFiles": [
+    "Locations/Ascarian Empire/Ascaria City.md",
+    "Locations/Ederint.md",
+    "Locations/Pashana.md",
+    "Locations/Pelagian Strait/Holy City of Camestia.md",
+    "Locations/Yuna Highlands/Brithen Mountains.md",
+    "Locations/Yuna Highlands/Vesos Mountains.md",
+    "Locations/Yuna Highlands/Yuna Highlands.md",
+    "Maps/World Map (Blank).md",
+    "README.md",
+    "Locations/Ascarian Empire/Ascarian Empire.md",
+    "Factions/Boatley Airships Inc..md",
+    "Lore/List of Deities.md",
+    "Locations/Ascarian Empire/Coter.md",
+    "Locations/Yuna Highlands",
+    "Locations/Pelagian Strait",
+    "Locations/Ascarian Empire",
+    "Player Characters/Maritza.md",
+    "_config.yml",
+    "Lore/The Queen’s Talon (Airship).md",
+    "Lore/General Setting Notes.md",
+    "Player Characters/Mr Dittles.md",
+    "Player Characters/Myla.md",
+    "lib/search-index.json",
+    "lib/metadata.json",
+    "lib/styles/main-styles.css",
+    "lib/styles/obsidian.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles",
+    "lib/media/favicon.png",
+    "lib/media/6155340132a851f6089e.svg",
+    "player-characters/image-1.png",
+    "player-characters/image.png",
+    "player-characters/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
+    "maps/world-map-(blank).png",
+    "People/Ascarion I.md",
+    "Lore/List of Sapient Species.md",
+    "Locations/Yuna Highlands/Towns End.md",
+    "Locations/Yuna Highlands/Naven.md",
+    "Locations/Ascarian Empire/Mt. Dagor.md",
+    "History/World History.md",
     "Player Characters/_Player Characters.md",
     "People/_People.md",
-    "Organizations/_Organizations.md",
-    "Lore/_Lore.md",
-    "Locations/_Locations.md",
-    "Locations/Ascaria City.md",
-    "README.md",
-    "Maps/_Maps.md",
-    "Maps",
-    "Organizations/Boatley Airships Inc..md",
-    "Lore/General Setting Notes.md",
-    "History/_History.md",
-    "_munia.md",
-    "Extras (Fate Core).md",
-    "People/Ascarion I.md",
-    "People",
-    "History",
-    "Locations/Ascarian Empire.md",
-    "Locations/Mt. Dagor.md",
-    "Player Characters/Myla.md",
-    "Player Characters/Mr Dittles.md",
-    "Player Characters/Maritza.md",
-    "Maps/World Map (Blank).png",
-    "History/World History.md",
-    "Lore/The Queen’s Talon (Airship).md",
-    "Lore/List of Sapient Species.md",
-    "Locations/Yuna Highlands.md",
-    "Locations/Towns End.md",
-    "Locations/Naven.md",
-    "Maps",
-    "Locations",
-    "notebook.zim",
-    "Notes"
+    "Maps/World Map (Blank).png"
   ]
 }

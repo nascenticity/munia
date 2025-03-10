@@ -18,10 +18,10 @@
 # Religion
 - The Imperial family claims the Sun God as their ancestor/patron/etc, with other deities being accepted but given a lower/different status
 
-# Regions
+# Territories
 - Capital Region
-	- [Ascaria City](Locations/Ascaria%20City.md)
-	- [Mt. Dagor](Locations/Mt.%20Dagor.md)
+	- [Ascaria City](Locations/Ascarian%20Empire/Ascaria%20City.md)
+	- [Mt. Dagor](Locations/Ascarian%20Empire/Mt.%20Dagor.md)
 - Eastern Coast
 	- Coter City
 	- Home of the Adventurer’s Guild

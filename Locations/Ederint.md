@@ -1,0 +1,1 @@
+Kingdom to the southwest of Yunaea and Ascaria. Has a temperate, oceanic climate reminiscent of central & western Europe.

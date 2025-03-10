@@ -1,1 +1,1 @@
-- First emperor & founder of the [Ascarian Empire](Locations/Ascarian%20Empire.md)
+- First emperor & founder of the [Ascarian Empire](Locations/Ascarian%20Empire/Ascarian%20Empire.md)

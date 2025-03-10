@@ -88,7 +88,7 @@ The backing of the Ascarian Empire was critical to the current ruler coming to p
 
 ## Towns’ End (Village & Surrounding Farmland)
 
-[[Towns End]]
+[[Locations/Yuna Highlands/Towns End]]
 ## Naven [major city]
 
 St. Pigeonation’s school of magic  
