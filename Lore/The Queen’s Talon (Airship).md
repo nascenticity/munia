@@ -19,3 +19,4 @@ Aspect 2: Family business (crew is an actual, though not entirely biological, fa
 - dr. hawkeye pierce he/him red tailed hawk - scatterbrained ship's doctor
 - azure lazuli she/her blue jay - amie's girlfriend, trainee medic
 - mr. snoodle AKA the creature in the hold he/him wild turkey - creature in the hold
+- biscuit pistachio he/him - maritza's middle child, aspiring chef, nocturnal
