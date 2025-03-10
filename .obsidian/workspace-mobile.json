@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "d860fbe554d1a178",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbb558a4f2df3e18",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2889a3e565f9f9ed",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Yuna Highlands.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Yuna Highlands"
+            }
+          },
+          {
+            "id": "731596701036dfb1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf"
+              },
+              "pinned": true,
+              "icon": "lucide-file-text",
+              "title": "Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape"
+            }
+          },
+          {
+            "id": "6a8c0268239e780a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Maritza.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maritza"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "45c18c7a108a78ea",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "60f733e8e4174f38",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTimeReverse",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d9cb1e3648271dfe",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "f1c3da6d1bc5abbe",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "4099d97b44b0507c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "36fe5b069106f8ee",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "22e6b420f4475fca",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Player Characters/Maritza.md",
+            "collapseAll": true,
+            "extraContext": true,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "c0235ee191a7ce6b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "742d13aa0933eb6a",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
+  "active": "6a8c0268239e780a",
+  "lastOpenFiles": [
+    "Player Characters/Mr. Dittles.md",
+    "Player Characters/Myla.md",
+    "Player Characters/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
+    "Player Characters/image 1.png",
+    "Player Characters/Maritza (Fate).png",
+    "Player Characters/Mr. Dittles (Fate).png",
+    "Player Characters/Myla (Fate).png",
+    "Game notes & records/2025-03-04.md",
+    "Untitled 1.md",
+    "World Map (Blank).png",
+    "Player Characters/Maritza.md",
+    "Player Characters/image.png",
+    "Untitled 2.md",
+    "Locations/Yuna Highlands.md",
+    "Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf",
+    "Game assets/The Queen’s Talon (Airship) Character Sheet .pdf",
+    "Game notes & records/2025-02-25.md",
+    "Game assets/Fate_Core_Character_Sheet_-_Form_Fill.pdf",
+    "Game notes & records/2024-8-24.md",
+    "Organizations/Boatley Airships Inc..md",
+    "Organizations",
+    "General Setting Notes.md",
+    "World Map (Blank).md",
+    "Extras (Fate Core).md",
+    "Locations/Towns End.md",
+    "Locations/New Yunaean nation.md",
+    "Lore",
+    "Extras",
+    "Untitled.md",
+    "The Queen’s Talon (Airship).md",
+    "Player Characters",
+    "New.md",
+    "[New.md",
+    "[[New.md",
+    "[[World.md",
+    "World History.md",
+    "Game assets/Airship Character Sheet.pdf",
+    "Game assets/Traditional Magic for Fate v0.1.pdf",
+    "Game assets/Random Tables",
+    "Game notes & records/2024-9-3.md",
+    "Game assets/Random Tables/Pasted image 20250218182105.jpg",
+    "Game assets/Random Tables/Pasted image 20250218182213.jpg",
+    "Game assets/IMG_3696.png",
+    "Game assets/Random Tables/Random Encounter Tables(Yuna Highlands).md",
+    "Locations/Naven.md",
+    "Untitled.canvas"
+  ]
+}
