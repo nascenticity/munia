@@ -1,1 +1,1 @@
-![](Player%20Characters/image.png)
+![](../Gallery/image.png)

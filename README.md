@@ -17,6 +17,6 @@
 - [Ascarion I](People/Ascarion%20I.md)
 - [Gutellan](People/Gutellan.md)
 ## Player Characters
-- [Maritza](Player%20Characters/Maritza.md)
+- [Maritza Reddington](Player%20Characters/Maritza%20Reddington.md)
 - [Mr Dittles](Player%20Characters/Mr%20Dittles.md)
 - [Myla](Player%20Characters/Myla.md)
