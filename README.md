@@ -12,7 +12,9 @@
 ## Organizations
 - [Boatley Airships Inc.](Factions/Boatley%20Airships%20Inc..md)
 ## People
+- [Albert](People/Albert.md)
 - [Ascarion I](People/Ascarion%20I.md)
+- [Gutellan](People/Gutellan.md)
 ## Player Characters
 - [Maritza](Player%20Characters/Maritza.md)
 - [Mr Dittles](Player%20Characters/Mr%20Dittles.md)
