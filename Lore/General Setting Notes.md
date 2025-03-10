@@ -1,3 +1,7 @@
+---
+tags:
+  - lore
+---
 - Very little worldbuilding done in advance; many details filled in by players 
 
 ## THEMES

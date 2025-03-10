@@ -1,3 +1,7 @@
-#playercharacters 
+---
+tags:
+  - playercharacters
+---
+
 
 ![[78ba9564-070e-4bf2-9517-368878f9dfb5.png]]

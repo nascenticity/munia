@@ -1,0 +1,4 @@
+---
+tags:
+  - locations/cities
+---
