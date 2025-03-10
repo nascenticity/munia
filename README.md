@@ -6,7 +6,7 @@
 - [Ascaria City](Locations/Ascarian%20Empire/Ascaria%20City.md)
 - [Mt. Dagor](Locations/Ascarian%20Empire/Mt.%20Dagor.md)
 ### Pelagian Strait
- -  [Holy City of Camestia](Locations/Pelagian%20Strait/Holy%20City%20of%20Camestia.md)
+ -  [Free City of Camesté](Locations/Pelagian%20Strait/Free%20City%20of%20Camesté.md)
 ### [Yuna Highlands](Locations/Yuna%20Highlands/Yuna%20Highlands.md)
 -  [Naven](Locations/Yuna%20Highlands/Naven.md)
 - [Towns End](Locations/Yuna%20Highlands/Towns%20End.md)

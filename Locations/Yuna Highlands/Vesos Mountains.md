@@ -1,1 +1,1 @@
-Mountain range forming the western border of the Yuna Highlands.
+Mountain range forming the western border of the Yuna highland

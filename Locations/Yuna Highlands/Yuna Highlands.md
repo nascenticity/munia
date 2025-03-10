@@ -1,5 +1,5 @@
 
-# Description 
+![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLGjkn1KYvP4s7H8IYfaI5SYFxL4_00xIIX4HwQ9bdF2QQRdWMAeMXt2lqHIbd5K3Gs6lplVQlZyjahNmgja1O5f-pP-Ebanr1UxT7AbV7T72f52WhAMTfb56d4DOjT6UjXW3hOsR8zoe7mm0pZHJYEy9q?key=tMWLF-ejTMy1C4F-pVzngg)# Description 
 
 ## Thematic & Aesthetic Touchstones 
 - Armenian highlands
