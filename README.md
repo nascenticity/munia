@@ -14,6 +14,8 @@
 - [General Setting Notes](Lore/General%20Setting%20Notes.md)
 - [List of Sapient Species](Lore/List%20of%20Sapient%20Species.md)
 - [The Queen’s Talon (Airship)](Lore/The%20Queen’s%20Talon%20(Airship).md)
+## Maps
+- [World Map (Blank)](Maps/World%20Map%20(Blank).md)
 ## Organizations
 - [Boatley Airships Inc.](Organizations/Boatley%20Airships%20Inc..md)
 ## People
