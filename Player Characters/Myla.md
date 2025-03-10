@@ -1,2 +1,1 @@
-
-![[image.png]]
+![](Player%20Characters/image.png)

@@ -1,3 +1,1 @@
-
-
-![[78ba9564-070e-4bf2-9517-368878f9dfb5.png]]
+![](Player%20Characters/78ba9564-070e-4bf2-9517-368878f9dfb5.png)
