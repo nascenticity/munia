@@ -13,7 +13,7 @@ tags: []
 - [General Setting Notes](Lore/General%20Setting%20Notes.md)
 - [List of Sapient Species](Lore/List%20of%20Sapient%20Species.md)
 - [The Queen’s Talon (Airship)](Lore/The%20Queen’s%20Talon%20(Airship).md)
-- [World History](Lore/World%20History.md](Lore/List%20of%20Sapient%20Species.md)
+- [World History](Lore/World%20History.md])
 # Maps
 TBA
 
