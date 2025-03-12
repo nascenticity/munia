@@ -19,4 +19,4 @@
 - **Dr. Hawkeye Pierce:** he/him red tailed hawk - scatterbrained ship's doctor
 - **Azure Lazuli:** she/her blue jay - Amie's girlfriend, trainee medic
 - **Mr. Snoodle AKA The Creature In The Hold:** he/him wild turkey - creature in the hold
-- **Biscuit Pistachio:** he/him - maritza's middle child, aspiring chef, nocturnal
+- **Biscuit Pistachio:** he/him - maritza's middle child, aspiring chef, nocturnal - autistic, mostly nonspeaking, signs instead

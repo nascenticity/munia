@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "7a6aa1ad2d2dcd73",
+            "id": "af62b918a13f1432",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Inactive/N3mo.md",
+                "file": "Notes/Fate Core Character Sheet Template.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,16 +40,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "N3mo"
+              "title": "Fate Core Character Sheet Template"
             }
           },
           {
-            "id": "e7f0c1ae574cde4a",
+            "id": "78ece7b71e474c78",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Game notes & records/2024-9-3.md",
+                "file": "Lore/Birdfolk.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,16 +64,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2024-9-3"
+              "title": "Birdfolk"
             }
           },
           {
-            "id": "386b4acd76a15376",
+            "id": "864796c08d72af41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Player Characters/Myla.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,35 +88,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "a415df6c9bb56979",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "README"
+              "title": "Myla"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -266,36 +242,39 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "a415df6c9bb56979",
+  "active": "864796c08d72af41",
   "lastOpenFiles": [
-    "History/History.md",
+    "Lore/Birdfolk.md",
+    "Lore/List of Sapient Species.md",
+    "Notes/Fate Core Character Sheet Template.md",
+    "Gallery/IMG_20250311_205159640.jpg",
+    "Player Characters/Myla.md",
+    "Player Characters/Mr. Dittles.md",
+    "Player Characters/Maritza Reddington.md",
     "Notes/Game notes & records/2025-03-11.md",
+    "Notes/Fate Core - Milestones.md",
+    "Notes/Game notes & records/2025-02-25.md",
+    "History/Story Events.md",
+    "Lore/The Queen’s Talon (Airship).md",
+    "Notes/Game assets/The Queen’s Talon (Airship) Character Sheet .pdf",
+    "Notes/Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf",
+    "Lore/General Setting Notes.md",
+    "Gallery/IMG_20250311_205159640 1.jpg",
+    "History/World History.md",
+    "README.md",
+    "History/History.md",
     "Notes/Game notes & records/2025-03-04.md",
     "Notes/Game assets/Earth Elemental (good) (Fate Core template).md",
     "Notes/Game assets/Fate Core NPC Notes.md",
     "Notes/Game assets/Earth Elemental (fair) (Fate Core template).md",
-    "History/Story Events.md",
     "Notes/Random Tables/Random Encounter Tables(Yuna Highlands).md",
     "sitebuilder.py",
-    "README.md",
-    "Player Characters/Mr. Dittles.md",
     "Notes/Game notes & records/2024-9-3.md",
     "Notes/Game notes & records/2024-8-24.md",
     "the queens tallon.md",
     "Player Characters/Inactive/N3mo.md",
-    "Player Characters/Myla.md",
-    "Player Characters/Maritza Reddington.md",
     "Player Characters/Inactive/Esmeralda Azucari.md",
-    "Player Characters/Inactive/Celosia.md",
-    "People/People.md",
-    "People/Gutellan.md",
-    "People/Ascarion I.md",
-    "People/Albert.md",
-    "Notes/Game notes & records/2025-02-25.md",
-    "Maps/World Map (Blank).md",
     "Maps/World Map (Blank).png",
-    "Lore/The Queen’s Talon (Airship).md",
-    "Lore/List of Sapient Species.md",
     "Gallery/Esmeralda_candy_thief.jpg",
     "Gallery/Coter Region.png",
     "Gallery/Capture.png",
@@ -309,11 +288,7 @@
     "docs/Player Characters/Inactive/Esmeralda Azucari.html",
     "docs/Player Characters/Inactive",
     "docs/Player Characters",
-    "docs/People/Albert.html",
-    "docs/People",
     "docs/Maps/World Map (Blank).png",
-    "docs/Gallery/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
-    "Gallery/Vega-Azucari_Family.jpg",
     "Untitled.canvas"
   ]
 }

@@ -3,6 +3,6 @@
 3. Elves
 4. Halflings
 5. Orcs
-6. Birdfolk 
+6. [Birdfolk](Birdfolk.md)
 7. Pelagians/Camestians
 8. Leonids
