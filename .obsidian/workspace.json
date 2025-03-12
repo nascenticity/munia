@@ -97,7 +97,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Game notes & records/2025-03-11.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,7 +112,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-11"
+              "title": "README"
             }
           }
         ],
@@ -268,8 +268,9 @@
   },
   "active": "a415df6c9bb56979",
   "lastOpenFiles": [
-    "Notes/Game notes & records/2025-03-04.md",
+    "History/History.md",
     "Notes/Game notes & records/2025-03-11.md",
+    "Notes/Game notes & records/2025-03-04.md",
     "Notes/Game assets/Earth Elemental (good) (Fate Core template).md",
     "Notes/Game assets/Fate Core NPC Notes.md",
     "Notes/Game assets/Earth Elemental (fair) (Fate Core template).md",
@@ -295,7 +296,6 @@
     "Maps/World Map (Blank).png",
     "Lore/The Queen’s Talon (Airship).md",
     "Lore/List of Sapient Species.md",
-    "Lore/List of Deities.md",
     "Gallery/Esmeralda_candy_thief.jpg",
     "Gallery/Coter Region.png",
     "Gallery/Capture.png",

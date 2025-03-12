@@ -1,6 +1,5 @@
 # Contents
-## History
-- [World History](History/World%20History.md)
+## [History](History/History.md)
 ## [Locations](Locations/Locations.md)
 ## Lore
 - [List of Deities](Lore/List%20of%20Deities.md)
