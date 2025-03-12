@@ -11,7 +11,7 @@ Current calamity: marauding monsters 
 # Fate Core Stats
 High concept: Frontier town
 Trouble: A fragile peace 
-Description: A village in the Yuna highlands on the edge of the wilderness, with a history of defiance against the bandit armies that plagued the region until recently.
+Description: A village in the [Yuna Highlands](Yuna%20Highlands.md) on the edge of the wilderness, with a history of defiance against the bandit armies that plagued the region until recently.
 # Points of Interest 
 
 ##### Village
@@ -33,7 +33,7 @@ Description: A village in the Yuna highlands on the edge of the wilderness, with
 4. Hunters’ Lodge
 5. Old Zela’s Lady’s Hut
 6. East Bridge (connects to Road to [[Locations/Yuna Highlands/Naven]]
-7. Road to Naven - most likely where the PCs came from
+7. Road to [Naven](Naven.md) - most likely where the PCs came from
 
 # NPCs
 

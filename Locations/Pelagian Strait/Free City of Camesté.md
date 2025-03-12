@@ -43,7 +43,7 @@ Fronts:
 	Feudal Alliances around the Azure Sea
 	
 		Description and Cast:
-			A century ago, the Goddess Camestia carved out the Pelagian strait and raised an island from the depths. When she led her children to settle there, they built a grand city and named it in her honor. Since then, Cameste has become part of the loose network of alliances and trade that defines the western Azure Sea. 
+			A century ago, the Goddess Camestia carved out the [Pelagian Strait](Pelagian%20Strait.md) and raised an island from the depths. When she led her children to settle there, they built a grand city and named it in her honor. Since then, Cameste has become part of the loose network of alliances and trade that defines the western Azure Sea. 
 			
 				Luminate Merelle (she/her), leader of the Church of Camestia (a reformer, wants to curb the Church's power & increase democracy)
 				Watch Captain Nerai (they/them) (feels under-staffed and lacking resources)

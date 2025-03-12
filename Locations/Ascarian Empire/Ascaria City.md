@@ -1,1 +1,2 @@
-- capital of the Ascarian Empire![](Gallery/ascaria_city.png)
+- capital of the [Ascarian Empire](Ascarian%20Empire.md) 
+![](Gallery/ascaria_city.png)

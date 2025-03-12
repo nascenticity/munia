@@ -18,5 +18,5 @@
 - [Gutellan](People/Gutellan.md)
 ## Player Characters
 - [Maritza Reddington](Player%20Characters/Maritza%20Reddington.md)
-- [Mr Dittles](Player%20Characters/Mr%20Dittles.md)
+- [Mr. Dittles](Player%20Characters/Mr.%20Dittles.md)
 - [Myla](Player%20Characters/Myla.md)

@@ -1,1 +1,1 @@
-Coastal region to the west of Yunaea, across the Vesos Mountains. Major trading center. Aesthetic touchstones: Old Lions Arch from GW2?
+Coastal region to the west of Yunaea, across the [Vesos Mountains](Yuna%20Highlands/Vesos%20Mountains.md). Major trading center. Aesthetic touchstones: Old Lions Arch from GW2?

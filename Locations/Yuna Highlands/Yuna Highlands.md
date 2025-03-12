@@ -19,13 +19,13 @@ Much of the local populace is organized into extended families and clans.
 
 # Neighboring Regions 
 
-## Ascarian Empire
+##  [Ascarian Empire](../Ascarian%20Empire/Ascarian%20Empire.md)
 
-The backing of the Ascarian Empire was critical to the current ruler coming to power 
+The backing of the Empire was critical to the current ruler coming to power 
 
-## Kingdom of Ederint
+## Kingdom of [Ederint](../Ederint.md)
 
-## Pashana
+## [Pashana](../Pashana.md)
 
   
 
@@ -89,7 +89,7 @@ The backing of the Ascarian Empire was critical to the current ruler coming to p
 ## Towns’ End (Village & Surrounding Farmland)
 
 [[Locations/Yuna Highlands/Towns End]]
-## Naven [major city]
+## [Naven](Naven.md) [major city]
 
 St. Pigeonation’s school of magic  
 
@@ -221,7 +221,7 @@ Uncanny Weather
 
 village that survived the wars without giving in to any of the bandit gangs or warlords in the area. Militia constitutes the ruling class.
 
-Base of Influence: Village of Towns End (12 hp)
+Base of Influence: Village of [Towns End](Towns%20End.md) (12 hp)
 
 - goals
 
@@ -239,11 +239,11 @@ Base of Influence: Village of Towns End (12 hp)
 - Hitpoints 12
 - Assets
 
-## Naven Merchants (Medium)
+## [Naven](Naven.md) Merchants (Medium)
 
-traders from the larger town to the east. Some folk of Towns End hold an old grudge against their town for capitulating to the Jackals back in the day. They are often frustrated by the locals’ “superstition” regarding the forest, as it interferes with collecting resources.
+traders from the larger town to the east. Some folk of [Towns End](Towns%20End.md) hold an old grudge against their town for capitulating to the Jackals back in the day. They are often frustrated by the locals’ “superstition” regarding the forest, as it interferes with collecting resources.
 
-Base of influence: Naven (17 hp)
+Base of influence: [Naven](Naven.md) (17 hp)
 
 - goals
 
@@ -318,7 +318,7 @@ Base of influence: ??? (17 hp)
 
 ## Yunaean Kingdom (large)
 
-client of Ascarian Empire 
+client of [Ascarian Empire](../Ascarian%20Empire/Ascarian%20Empire.md) 
 
 - Base of Influence: capital city name tbd (34 hp)
 - goals

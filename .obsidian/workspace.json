@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "afa171796e19579d",
+            "id": "7a6aa1ad2d2dcd73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Game notes & records/2024-8-24.md",
+                "file": "Player Characters/Inactive/N3mo.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -36,20 +36,20 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "2024-8-24"
+              "title": "N3mo"
             }
           },
           {
-            "id": "2003bd3be1bf7d73",
+            "id": "e7f0c1ae574cde4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Game notes & records/2025-03-04.md",
+                "file": "Notes/Game notes & records/2024-9-3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -60,15 +60,63 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
+                  "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-03-04"
+              "title": "2024-9-3"
+            }
+          },
+          {
+            "id": "386b4acd76a15376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "a415df6c9bb56979",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Game notes & records/2025-03-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-11"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -88,7 +136,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -218,34 +266,43 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "2003bd3be1bf7d73",
+  "active": "a415df6c9bb56979",
   "lastOpenFiles": [
-    "docs/README.html",
+    "Notes/Game notes & records/2025-03-04.md",
+    "Notes/Game notes & records/2025-03-11.md",
+    "Notes/Game assets/Earth Elemental (good) (Fate Core template).md",
+    "Notes/Game assets/Fate Core NPC Notes.md",
+    "Notes/Game assets/Earth Elemental (fair) (Fate Core template).md",
+    "History/Story Events.md",
+    "Notes/Random Tables/Random Encounter Tables(Yuna Highlands).md",
+    "sitebuilder.py",
     "README.md",
+    "Player Characters/Mr. Dittles.md",
+    "Notes/Game notes & records/2024-9-3.md",
+    "Notes/Game notes & records/2024-8-24.md",
+    "the queens tallon.md",
+    "Player Characters/Inactive/N3mo.md",
     "Player Characters/Myla.md",
-    "Player Characters/Mr Dittles.md",
     "Player Characters/Maritza Reddington.md",
     "Player Characters/Inactive/Esmeralda Azucari.md",
+    "Player Characters/Inactive/Celosia.md",
     "People/People.md",
     "People/Gutellan.md",
     "People/Ascarion I.md",
-    "Notes/Random Tables/Random Encounter Tables(Yuna Highlands).md",
-    "Notes/Game notes & records/2025-03-04.md",
+    "People/Albert.md",
     "Notes/Game notes & records/2025-02-25.md",
-    "Notes/Game notes & records/2024-9-3.md",
     "Maps/World Map (Blank).md",
+    "Maps/World Map (Blank).png",
     "Lore/The Queen’s Talon (Airship).md",
     "Lore/List of Sapient Species.md",
     "Lore/List of Deities.md",
-    "Lore/General Setting Notes.md",
-    "Locations/Pashana.md",
-    "Locations/Locations.md",
-    "Locations/Yuna Highlands/Yuna Highlands.md",
-    "Locations/Yuna Highlands/Vesos Mountains.md",
-    "Locations/Yuna Highlands/Towns End.md",
-    "Locations/Yuna Highlands/New Yunaean nation.md",
-    "Locations/Yuna Highlands/Naven.md",
-    "Locations/Pelagian Strait/Pelagian Strait.md",
+    "Gallery/Esmeralda_candy_thief.jpg",
+    "Gallery/Coter Region.png",
+    "Gallery/Capture.png",
+    "Gallery/Ascarian Royal Crest.png",
+    "Gallery/ascaria_city.png",
+    "Gallery/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
+    "docs/README.html",
     "docs/index.html",
     "docs/_config.yml",
     "docs/Player Characters/Inactive/N3mo.html",
@@ -254,17 +311,9 @@
     "docs/Player Characters",
     "docs/People/Albert.html",
     "docs/People",
-    "docs/Notes/Game assets/Fate_Core_Character_Sheet_-_Form_Fill.pdf",
     "docs/Maps/World Map (Blank).png",
     "docs/Gallery/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
     "Gallery/Vega-Azucari_Family.jpg",
-    "Gallery/Esmeralda_candy_thief.jpg",
-    "Gallery/ascaria_city.png",
-    "docs/docs/Player Characters/image 1.png",
-    "docs/docs/Player Characters/image.png",
-    "docs/docs/Player Characters/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
-    "docs/docs/Notes/Game assets/Random Tables/Pasted image 20250218182120.jpg",
-    "docs/docs/Notes/Game assets/Random Tables/Pasted image 20250218182105.jpg",
     "Untitled.canvas"
   ]
 }

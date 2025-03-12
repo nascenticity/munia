@@ -2,7 +2,7 @@
 - inspired by Roman, Byzantine and Persian empires - traditional fantasy setting but with a *twist*
 
 # History 
-- A little over 500 years ago,  founder Ascarion slayed an ancient dragon at Mount Dagor and used the wealth from its hoard to found a great kingdom, from which his descendants went on to conquer the entire region 
+- A little over 500 years ago,  founder [Ascarion I](../../People/Ascarion%20I.md) slayed an ancient dragon at [Mount Dagor](Mount%20Dagor.md) and used the wealth from its hoard to found a great kingdom, from which his descendants went on to conquer the entire region 
 
 # Government
 - Divinely ordained emperor
@@ -21,7 +21,7 @@
 # Territories
 - Capital Region
 	- [Ascaria City](Locations/Ascarian%20Empire/Ascaria%20City.md)
-	- [Mt. Dagor](Locations/Ascarian%20Empire/Mt.%20Dagor.md)
+	- [Mount Dagor](Mount%20Dagor.md)
 - Eastern Coast
-	- Coter City
+	- [Coter](Coter.md) City
 	- Home of the Adventurer’s Guild

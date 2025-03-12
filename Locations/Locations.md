@@ -1,7 +1,7 @@
 #[Ascarian Empire](Ascarian%20Empire/Ascarian%20Empire.md)
 - [Ascaria City](Ascarian%20Empire/Ascaria%20City.md)
 - [Coter](Ascarian%20Empire/Coter.md)
-- [Mt. Dagor](Ascarian%20Empire/Mt.%20Dagor.md)
+- [Mount Dagor](Ascarian%20Empire/Mount%20Dagor.md)
 - [Pearlgrove Town](Ascarian%20Empire/Pearlgrove%20Town.md)
 - [Sanry Mountains](Ascarian%20Empire/Sanry%20Mountains.md)
 # [Ederint](Ederint.md)
