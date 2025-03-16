@@ -1,1 +1,17 @@
-body{ background-color: dimgray; color:white; width: 80%; margin: 0 auto;}
+body{ 
+    background-color: dimgray; 
+    color:white; 
+    width: 80%; 
+    margin: 0 auto;
+}
+
+image{
+    width: inherit;
+}
+
+table{
+    border-collapse: collapse;
+}
+table, td, th{
+    border: 1px solid;
+}
