@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Fate Core Character Sheet Template.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,16 +40,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fate Core Character Sheet Template"
+              "title": "README"
             }
           },
           {
-            "id": "78ece7b71e474c78",
+            "id": "68d7d6b04809bec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/Birdfolk.md",
+                "file": "Locations/Yuna Highlands/Towns End.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -64,35 +64,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Birdfolk"
-            }
-          },
-          {
-            "id": "864796c08d72af41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Player Characters/Myla.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Myla"
+              "title": "Towns End"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -238,57 +214,57 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "markdown-importer:Open format converter": false,
-      "publish:Publish changes...": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "publish:Publish changes...": false
     }
   },
-  "active": "864796c08d72af41",
+  "active": "bb0bb18c1ec2c809",
   "lastOpenFiles": [
-    "Lore/Birdfolk.md",
-    "Lore/List of Sapient Species.md",
+    "docs/style.css",
+    "docs/index.html",
+    "docs/Factions",
+    "docs/Locations/Pashana.html",
+    "docs/Locations",
+    "docs/Player Characters",
+    "docs/History/History.html",
+    "docs/History",
+    "docs/Notes",
+    "docs/Lore",
+    "docs/People/Gutellan.html",
+    "docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli.jpeg",
+    "docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 2.jpeg",
+    "docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 1.jpeg",
+    "docs/Gallery/the-carpathians-1143376_1280.jpg",
+    "docs/Gallery/the-carpathians-1143376_1280 1.jpg",
+    "docs/Gallery/taul-tapului-retezat-mountains-1.jpg",
+    "docs/Gallery/image.png",
+    "docs/Gallery/image 1.png",
+    "docs/Gallery/greece-corfu-old-town.jpeg",
+    "docs/Gallery/ascaria_city.png",
     "Notes/Fate Core Character Sheet Template.md",
-    "Gallery/IMG_20250311_205159640.jpg",
-    "Player Characters/Myla.md",
+    "Maps/World Map (Blank).md",
+    "Locations/Yuna Highlands/Towns End.md",
+    "Locations/Yuna Highlands/Yuna Highlands.md",
+    "Factions/Merchants of Naven.md",
+    "Locations/Pashana.md",
+    "Factions/Boatley Airships Inc..md",
+    "Factions/New Yunaean nation.md",
+    "Factions/Religious Missionaries.md",
+    "Factions/People of Towns End.md",
+    "Notes/Game notes & records/2025-03-18.md",
+    "Notes/Fate Core - Milestones.md",
+    "History/Story Events.md",
+    "History/World History.md",
+    "Lore/Birdfolk.md",
+    "Locations/Locations.md",
+    "People/Gutellan.md",
+    "People/People.md",
     "Player Characters/Mr. Dittles.md",
     "Player Characters/Maritza Reddington.md",
-    "Notes/Game notes & records/2025-03-11.md",
-    "Notes/Fate Core - Milestones.md",
-    "Notes/Game notes & records/2025-02-25.md",
-    "History/Story Events.md",
-    "Lore/The Queen’s Talon (Airship).md",
-    "Notes/Game assets/The Queen’s Talon (Airship) Character Sheet .pdf",
-    "Notes/Game assets/Fate-Core-Cheat-Sheet-and-Vet-Guide-Landscape.pdf",
-    "Lore/General Setting Notes.md",
-    "Gallery/IMG_20250311_205159640 1.jpg",
-    "History/World History.md",
-    "README.md",
+    "People/Ascarion I.md",
+    "Locations/Ascarian Empire/Coter.md",
+    "Locations/Ascarian Empire/Ascarian Empire.md",
+    "Locations/Ascarian Empire/Ascaria City.md",
     "History/History.md",
-    "Notes/Game notes & records/2025-03-04.md",
-    "Notes/Game assets/Earth Elemental (good) (Fate Core template).md",
-    "Notes/Game assets/Fate Core NPC Notes.md",
-    "Notes/Game assets/Earth Elemental (fair) (Fate Core template).md",
-    "Notes/Random Tables/Random Encounter Tables(Yuna Highlands).md",
-    "sitebuilder.py",
-    "Notes/Game notes & records/2024-9-3.md",
-    "Notes/Game notes & records/2024-8-24.md",
-    "the queens tallon.md",
-    "Player Characters/Inactive/N3mo.md",
-    "Player Characters/Inactive/Esmeralda Azucari.md",
-    "Maps/World Map (Blank).png",
-    "Gallery/Esmeralda_candy_thief.jpg",
-    "Gallery/Coter Region.png",
-    "Gallery/Capture.png",
-    "Gallery/Ascarian Royal Crest.png",
-    "Gallery/ascaria_city.png",
-    "Gallery/78ba9564-070e-4bf2-9517-368878f9dfb5.png",
-    "docs/README.html",
-    "docs/index.html",
-    "docs/_config.yml",
-    "docs/Player Characters/Inactive/N3mo.html",
-    "docs/Player Characters/Inactive/Esmeralda Azucari.html",
-    "docs/Player Characters/Inactive",
-    "docs/Player Characters",
-    "docs/Maps/World Map (Blank).png",
     "Untitled.canvas"
   ]
 }

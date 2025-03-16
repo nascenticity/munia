@@ -1,1 +1,0 @@
-![](Maps/World%20Map%20(Blank).png)

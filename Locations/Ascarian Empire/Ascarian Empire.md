@@ -20,8 +20,8 @@
 
 # Territories
 - Capital Region
-	- [Ascaria City](Locations/Ascarian%20Empire/Ascaria%20City.md)
+	- [Ascaria City](Ascaria%20City.md)
 	- [Mount Dagor](Mount%20Dagor.md)
 - Eastern Coast
-	- [Coter](Coter.md) City
+	- [Coter](Coter.md)
 	- Home of the Adventurer’s Guild

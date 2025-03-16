@@ -1,10 +1,10 @@
-
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeLGjkn1KYvP4s7H8IYfaI5SYFxL4_00xIIX4HwQ9bdF2QQRdWMAeMXt2lqHIbd5K3Gs6lplVQlZyjahNmgja1O5f-pP-Ebanr1UxT7AbV7T72f52WhAMTfb56d4DOjT6UjXW3hOsR8zoe7mm0pZHJYEy9q?key=tMWLF-ejTMy1C4F-pVzngg)# Description 
+![](../../Gallery/Screenshot%20from%202025-03-16%2015-03-49.png)
+# Description 
 
 ## Thematic & Aesthetic Touchstones 
-- Armenian highlands
-- Cascades
-- Appalachia 
+- Armenian highlands - cultural & political touchstone
+- Cascades - climate touchstone
+- Appalachia - climate touchstone
 ## Environment
 Yuna has a subtropical highlands climate, a subset of the oceanic climate. rainfall is spread evenly throughout the year.
 
@@ -215,131 +215,6 @@ Uncanny Weather
 
   
 
-# Factions
-
-## Townsend (small)
-
-village that survived the wars without giving in to any of the bandit gangs or warlords in the area. Militia constitutes the ruling class.
-
-Base of Influence: Village of [Towns End](Towns%20End.md) (12 hp)
-
-- goals
-
-- Peaceable Kingdom: Don’t take an Attack action for four turns. Difficulty 1.
-
-- tags
-- Stats
-
-- Cunning 4
-- Force 3
-- Wealth 2
-
-- Magic low
-- Treasure 
-- Hitpoints 12
-- Assets
-
-## [Naven](Naven.md) Merchants (Medium)
-
-traders from the larger town to the east. Some folk of [Towns End](Towns%20End.md) hold an old grudge against their town for capitulating to the Jackals back in the day. They are often frustrated by the locals’ “superstition” regarding the forest, as it interferes with collecting resources.
-
-Base of influence: [Naven](Naven.md) (17 hp)
-
-- goals
-
-- Expand Influence: Plant a Base of Influence at a new location. Difficulty 1, +1 if a rival contests it.
-- Wealth of Kingdoms: Spend Treasure equal to four times your faction’s Wealth rating on bribes and influence. This money is effectively lost, but the goal is then considered accomplished. The faction’s Wealth rating must increase before this goal can be selected again. Difficulty 2.
-
-- tags
-- Stats
-
-- Cunning 4
-- Force 2
-- Wealth 5
-
-- Magic medium
-- Treasure 
-- Hitpoints 17
-- Assets
-
-- Caravan (wealth, 4 hp): As a free action, once per turn, the Caravan can spend 1 Treasure and move itself and one other Asset in the same place to a new location within one move.
-
-- Attack: W v. W/1d4 damage
-- Counter: none
-- Qualities: action
-
-- Free Company (wealth, 6 hp): Hired mercenaries and professional soldiers, this Asset can, as a free action once per turn, move itself. At the start of each of its owner’s turn, it takes 1 Treasure in upkeep costs; if this is not paid, roll 1d6. On a 1-3 the Asset is lost, on a 4-6 it goes rogue and will move to Attack the most profitable-looking target. This roll is repeated each turn until back pay is paid or the Asset is lost.
-
-- Attack: W v. F/2d4+2 damage
-- Counter: 1d6 damage
-- Qualities: Action, Special
-
-- Court Patronage (cunning, 8 hp): Powerful nobles or officials are appointing their agents to useful posts of profit. A Court Patronage Asset automatically grants 1 Treasure to its owning faction each turn.
-
-- Attack: C v. C/1d6 damage
-- Counter: 1d6 damage
-- Qualities: Subtle, Special
-
-- Hired Friends (cunning, 4): As a free action, once per turn, the faction may spend 1 Treasure and grant a Wealth Asset within one turn’s movement range the Subtle quality. This quality will remain, regardless of the Wealth Asset’s movement, until the Hired Friends are destroyed or they use this ability again.
-
-- Attack: C v. C/1d6 damage
-- Counter: None
-- Qualities: Subtle, special
-
-  
-
-## Rival Cult (medium)
-
-the “missionaries” during the Quiet Year
-
-Base of influence: ??? (17 hp)
-
-- goals
-
-- Expand Influence: Plant a Base of Influence at a new location. Difficulty 1, +1 if a rival contests it.
-
-- tags
-- Stats
-
-- Cunning 5
-- Force 2
-- Wealth 4
-
-- Magic high
-- Treasure 
-- Hitpoints 17
-- Assets
-
-- 2 in cunning
-- 1 in force
-- 1 in wealth
-
-  
-
-## Yunaean Kingdom (large)
-
-client of [Ascarian Empire](../Ascarian%20Empire/Ascarian%20Empire.md) 
-
-- Base of Influence: capital city name tbd (34 hp)
-- goals
-
-- Peaceable Kingdom: Don’t take an Attack action for four turns. Difficulty 1.
-
-- tags
-- Stats
-
-- Cunning 6
-- Force 7
-- Wealth 4
-
-- Magic medium
-- Treasure 
-- Hitpoints 34
-- Assets
-
-- 4 in force
-- 2 cunning 
-- 2 wealth
 
   
 

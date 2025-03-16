@@ -1,1 +1,1 @@
-Helped reunite the warring factions of Yuna. Partner of [Gutellan](People/Gutellan.md).
+Helped reunite the warring factions of Yuna. Partner of [Gutellan](Gutellan.md).

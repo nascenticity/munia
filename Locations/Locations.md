@@ -11,6 +11,6 @@
 # [Yuna Highlands](Yuna%20Highlands/Yuna%20Highlands.md)
 - [Brithen Mountains](Yuna%20Highlands/Brithen%20Mountains.md)
 - [Naven](Yuna%20Highlands/Naven.md)
-- [New Yunaean nation](Yuna%20Highlands/New%20Yunaean%20nation.md)
+- [New Yunaean nation](../Factions/New%20Yunaean%20nation.md)
 - [Towns End](Yuna%20Highlands/Towns%20End.md)
 - [Vesos Mountains](Yuna%20Highlands/Vesos%20Mountains.md)
