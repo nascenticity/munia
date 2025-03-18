@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Lore/List of Sapient Species.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "List of Sapient Species"
             }
           },
           {
@@ -217,8 +217,9 @@
       "publish:Publish changes...": false
     }
   },
-  "active": "bb0bb18c1ec2c809",
+  "active": "af62b918a13f1432",
   "lastOpenFiles": [
+    "README.md",
     "docs/style.css",
     "docs/index.html",
     "docs/Factions",
@@ -229,7 +230,6 @@
     "docs/History",
     "docs/Notes",
     "docs/Lore",
-    "docs/People/Gutellan.html",
     "docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli.jpeg",
     "docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 2.jpeg",
     "docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 1.jpeg",
