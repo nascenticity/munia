@@ -1,4 +1,3 @@
-- Camestia
 - Lord of Sleep
 - Lady of Nightmares (Matilda)
 	- Matilda's Children
@@ -11,8 +10,8 @@
 	- Guran, Lord of the Threshold - god of hospitality, the home, and good relations between people.
 - The Imperial Pantheon 
 	- Ascaros, head of pantheon, god of the sun and emperors     
-	- Enas, god of the major moon 
-	- Camestia, goddess of the minor moon 
+	- Enas, god of the major moon; considered a patron of math and science.
+	- Camestia, goddess of the minor moon; considered a patron of math and science.
 	- Astara, goddess of the stars, wisdom, and divination magic 
 	- Kasher, god of the underworld 
 	- Korin, god of time and fate

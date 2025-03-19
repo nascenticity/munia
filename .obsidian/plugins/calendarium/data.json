@@ -1,0 +1,345 @@
+{
+  "autoParse": true,
+  "calendars": [
+    {
+      "name": "Munia (good version)",
+      "description": null,
+      "id": "ID_0a590bf8d87b",
+      "showIntercalarySeparately": true,
+      "static": {
+        "incrementDay": false,
+        "firstWeekDay": 0,
+        "overflow": true,
+        "weekdays": [
+          {
+            "type": "day",
+            "name": "Onesday",
+            "id": "ID_bbf99ad838d9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Twosday",
+            "id": "ID_184979f9db0a",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Threesday",
+            "id": "ID_dba9d9989b18",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Foursday",
+            "id": "ID_bb2a2beba9c9",
+            "number": null
+          },
+          {
+            "type": "day",
+            "name": "Fivesday",
+            "id": "ID_e98aebfbca5a",
+            "number": null
+          }
+        ],
+        "months": [
+          {
+            "name": "Spring 1",
+            "type": "month",
+            "length": 30,
+            "id": "ID_79387a0b4b89",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Spring 2",
+            "type": "month",
+            "length": 30,
+            "id": "ID_68581b583a99",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Spring 3",
+            "type": "month",
+            "length": 30,
+            "id": "ID_0a6b9989994b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Summer 1",
+            "type": "month",
+            "length": 30,
+            "id": "ID_096aa8fa1a09",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Summer 2",
+            "type": "month",
+            "length": 30,
+            "id": "ID_9aeb19da89a9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Summer 3",
+            "type": "month",
+            "length": 30,
+            "id": "ID_89fa2b4aca28",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Autumn 1",
+            "type": "month",
+            "length": 30,
+            "id": "ID_0bbb68490bc9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Autumn 2",
+            "type": "month",
+            "length": 30,
+            "id": "ID_5bc9dbca1bf9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Autumn 3",
+            "type": "month",
+            "length": 30,
+            "id": "ID_78bbeb78ca2a",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Winter 1",
+            "type": "month",
+            "length": 30,
+            "id": "ID_e91809a91a6b",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Winter 2",
+            "type": "month",
+            "length": 30,
+            "id": "ID_8b4a789ac8d9",
+            "interval": 1,
+            "offset": 0
+          },
+          {
+            "name": "Winter 3",
+            "type": "month",
+            "length": 30,
+            "id": "ID_28fa2b28e958",
+            "interval": 1,
+            "offset": 0
+          }
+        ],
+        "moons": [
+          {
+            "name": "Enes",
+            "cycle": 30,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_a93a19891bb9"
+          },
+          {
+            "name": "Camestia",
+            "cycle": 90,
+            "offset": 0,
+            "faceColor": "#ffffff",
+            "shadowColor": "#292b4a",
+            "id": "ID_bb29d9480869"
+          }
+        ],
+        "displayMoons": true,
+        "displayDayNumber": false,
+        "leapDays": [],
+        "eras": []
+      },
+      "current": {
+        "day": 6,
+        "month": 4,
+        "year": 10728
+      },
+      "events": [
+        {
+          "name": "Twin Moons - Spring",
+          "description": "",
+          "id": "3006626",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 16,
+            "year": 10728,
+            "month": 1
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Twin Moons - Summer",
+          "description": "",
+          "id": "3006627",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 16,
+            "year": 10728,
+            "month": 4
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Twin Moons - Autumn",
+          "description": "",
+          "id": "3006628",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 16,
+            "year": 10728,
+            "month": 7
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "Twin Moons - Winter",
+          "description": "",
+          "id": "3006629",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 16,
+            "year": 10728,
+            "month": 10
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "New Moons - Spring",
+          "description": "",
+          "id": "3006634",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 10728,
+            "month": 0
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "New Moons - Summer",
+          "description": "",
+          "id": "3006635",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 10728,
+            "month": 3
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "New Moons - Autumn",
+          "description": "",
+          "id": "3006636",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 10728,
+            "month": 6
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        },
+        {
+          "name": "New Moons - Winter",
+          "description": "",
+          "id": "3006637",
+          "note": null,
+          "type": "Date",
+          "date": {
+            "day": 1,
+            "year": 10728,
+            "month": 9
+          },
+          "category": null,
+          "sort": {
+            "order": "",
+            "timestamp": 0
+          }
+        }
+      ],
+      "categories": [],
+      "path": [],
+      "supportInlineEvents": false,
+      "inlineEventTag": "#inline-events"
+    }
+  ],
+  "configDirectory": null,
+  "dailyNotes": false,
+  "dateFormat": "YYYY-MM-DD",
+  "defaultCalendar": "ID_0a590bf8d87b",
+  "eventPreview": true,
+  "exit": {
+    "saving": false,
+    "event": false,
+    "calendar": false,
+    "savingEvent": false
+  },
+  "eventFrontmatter": false,
+  "parseDates": false,
+  "version": {
+    "major": 1,
+    "minor": 5,
+    "patch": 0,
+    "beta": null
+  },
+  "debug": false,
+  "askedToMoveFC": false,
+  "askedAboutSync": false,
+  "syncBehavior": "Ask",
+  "inlineEventsTag": "!",
+  "paths": [
+    [
+      "/",
+      "DEFAULT"
+    ]
+  ]
+}
