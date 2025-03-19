@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lore/List of Sapient Species.md",
+                "file": "Notes/Game notes & records/2025-03-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "List of Sapient Species"
+              "title": "2025-03-18"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "active": "af62b918a13f1432",
   "lastOpenFiles": [
+    "Lore/List of Sapient Species.md",
     "README.md",
     "docs/style.css",
     "docs/index.html",
@@ -264,7 +265,6 @@
     "Locations/Ascarian Empire/Coter.md",
     "Locations/Ascarian Empire/Ascarian Empire.md",
     "Locations/Ascarian Empire/Ascaria City.md",
-    "History/History.md",
     "Untitled.canvas"
   ]
 }
