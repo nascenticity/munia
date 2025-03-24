@@ -1,4 +1,4 @@
-![](Gallery/World%20Map%20(Blank).png)
+![](Gallery/munia_van_der_grinten.gif)
 # Contents
 ## [History](History/History.md)
 ## [Locations](Locations/Locations.md)
