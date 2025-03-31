@@ -1,0 +1,3 @@
+The primary timekeeping system on Munia used by scholars and international groups is the lunar calendar based on the planet's two moons - Enes and Camestia. Because the moons are in a 1:3 resonance with each other, the orbit of Enes is 3x shorter than that of Camestia. Thus in a 12-month calendar when Enes experiences 12 cycles, Camestia only experiences four. This helpfully divides up the year into twelve months, and four quarters of three months each.
+
+The precision of their orbital alignments has led Enes and Camestia, as deities, to be worshiped as patrons of mathematics and the sciences.
