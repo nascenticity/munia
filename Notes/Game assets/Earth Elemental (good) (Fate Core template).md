@@ -3,7 +3,7 @@ Aspects:
 - magically imbued stone that has developed a life of its own 
 - Territorial 
 Skills:
-- Good (+3): 
+- Good (+3): fight
 - Fair (+2): Provoke
 - Average (+1): Stealth, notice
 - Stress: 

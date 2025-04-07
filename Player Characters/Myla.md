@@ -4,7 +4,7 @@
 
 | Fate Points | Refresh |
 | ----------- | ------- |
-| 3           | 3       |
+| 1           | 3       |
 ### Aspects
 
 | Aspect       | Description                                                                   |

@@ -50,3 +50,4 @@ Aspect #4: Dark Magic Rumors
 - Hunter Junior - got lost in the feywild at one point; very traumatic 
 - Woodsman - Silas
 - Merchant - Julius
+

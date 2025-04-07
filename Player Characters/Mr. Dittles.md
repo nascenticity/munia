@@ -4,7 +4,7 @@
 
 | Fate Points | Refresh |
 | ----------- | ------- |
-| 3           | 2       |
+| 2           | 2       |
 ### Aspects
 
 | Aspect       | Description                                         |
@@ -12,18 +12,18 @@
 | High Concept | Impersonator/Shapeshifter Ex-Sales blob             |
 | Trouble      | Prone to chronic stress syndrome and too hardcore   |
 | #3           | Employee of 36 months Sales Sr. at Boatley Airships |
-| #4           | Never forget the hawt robbin robbin' ships          |
+| #4           | Values family over airships                         |
 | #5           | Gets pessimistic in response to positivity          |
 
 ### Skills
 
-| **Skill Tier** |         |             |          |           |
-| -------------: | ------- | ----------- | -------- | --------- |
-|    Superb (+5) | ---     | ---         | ---      | ---       |
-|     Great (+4) | Will    | ---         | ---      | ---       |
-|      Good (+3) | Lore    | Investigate | ---      | ---       |
-|      Fair (+2) | Provoke | Decieve     | Contacts | Fight     |
-|   Average (+1) | Rapport | Drive       | Stealth  | ~~Fight~~ |
+| **Skill Tier** |         |             |          |       |
+| -------------: | ------- | ----------- | -------- | ----- |
+|    Superb (+5) | ---     | ---         | ---      | ---   |
+|     Great (+4) | Will    | ---         | ---      | ---   |
+|      Good (+3) | Lore    | Investigate | ---      | ---   |
+|      Fair (+2) | Provoke | Decieve     | Contacts |       |
+|   Average (+1) | Rapport | Drive       | Stealth  | Fight |
 All other skills rolled as Mediocre (+0)
 ### Stunts
 

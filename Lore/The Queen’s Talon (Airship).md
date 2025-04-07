@@ -20,3 +20,5 @@
 - **Azure Lazuli:** she/her blue jay - Amie's girlfriend, trainee medic
 - **Mr. Snoodle AKA The Creature In The Hold:** he/him wild turkey - creature in the hold
 - **Biscuit Pistachio:** he/him - maritza's middle child, aspiring chef, nocturnal - autistic, mostly nonspeaking, signs instead
+# Other
+- a giant sticker on the back that says "baby on board"
