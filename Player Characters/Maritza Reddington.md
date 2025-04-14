@@ -1,3 +1,7 @@
+---
+aliases:
+  - Maritza
+---
 ![](../Gallery/IMG_20250311_205159640%201.jpg)
 ## Description
 American Robin swashbuckler, with a love for fine clothing and even finer blades. Also, a mom.
@@ -38,10 +42,10 @@ All other skills rolled as Mediocre (+0)
 
 ### Stress
 
-|                     |  1  |  2  |  3  |  4  |
-| ------------------: | :-: | :-: | :-: | :-: |
-| Physical (Physique) |     |     |     |     |
-|       Mental (Will) |     |     |     |     |
+|                     |  1  |           2            |  3  |  4  |
+| ------------------: | :-: | :--------------------: | :-: | :-: |
+| Physical (Physique) |     | rock monster (2 shift) |     |     |
+|       Mental (Will) |     |                        |     |     |
 
 ### Consequences
 

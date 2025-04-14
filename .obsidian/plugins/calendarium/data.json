@@ -164,7 +164,7 @@
         "eras": []
       },
       "current": {
-        "day": 6,
+        "day": 8,
         "month": 4,
         "year": 10728
       },
@@ -304,6 +304,23 @@
             "order": "",
             "timestamp": 0
           }
+        },
+        {
+          "name": "Frost Shepherds Arrive",
+          "description": "The Towns End townsfolk have sent a request for aid to Naven - where the Frost Shepherds have a base of operations. The townsfolk request aid in removing the monsters that have infested the local mines.",
+          "date": {
+            "day": 11,
+            "month": 4,
+            "year": 10728
+          },
+          "id": "ID_9b2a78aa6b2b",
+          "note": null,
+          "category": null,
+          "sort": {
+            "timestamp": 5e-324,
+            "order": ""
+          },
+          "type": "Date"
         }
       ],
       "categories": [],
@@ -331,7 +348,7 @@
     "patch": 0,
     "beta": null
   },
-  "debug": false,
+  "debug": true,
   "askedToMoveFC": false,
   "askedAboutSync": true,
   "syncBehavior": "Ask",

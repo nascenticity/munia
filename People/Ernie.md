@@ -1,0 +1,5 @@
+- home: [Towns End](../Locations/Yuna%20Highlands/Towns%20End.md)
+- profession: runs the general store
+- other details: Bert’s husband , runs the general store, dislikes the merchants who come from the city because they look down on the villagers (he feels)
+	- character from the quiet year
+- Fate stats: +1 empathy

@@ -1,0 +1,3 @@
+- older human male, balding
+- his office looks especially fancy for such a small town
+- has total faith that the [Frost Shepherds](../Factions/Frost%20Shepherds.md) can solve all of the town's problems, but was willing to let [Maritza](../Player%20Characters/Maritza%20Reddington.md) and co. try dealing with the monsters in the mines

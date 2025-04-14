@@ -1,0 +1,4 @@
+- From the game *The Quiet Year* - their arrival signals the end of the game
+- They are an elite corps of mages that solves problems, with the backing of the [New Yunaean government](New%20Yunaean%20government.md). 
+- They have a presence in *at least* the city of [Naven](../Locations/Yuna%20Highlands/Naven.md) - likely one in every major city of the nation.
+- Is their magic linked to the Lady of Nightmares and the Lord of Sleep?

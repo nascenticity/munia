@@ -1,6 +1,6 @@
 # Worlds Without Numbers Stats
-Faction size: medium
-the “missionaries” during the Quiet Year
+- Faction size: medium
+- the “missionaries” during the Quiet Year - they were up to some shady shit, iirc killed a guy who was going to expose them?
 
 Base of influence: ??? (17 hp)
 

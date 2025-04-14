@@ -4,7 +4,7 @@
 
 | Fate Points | Refresh |
 | ----------- | ------- |
-| 2           | 2       |
+| 3           | 2       |
 ### Aspects
 
 | Aspect       | Description                                         |
@@ -43,9 +43,8 @@ All other skills rolled as Mediocre (+0)
 
 ### Consequences
 
-| Type         | Description |
-| ------------ | ----------- |
-| 2 - Mild     |             |
-| 2 - Mild     |             |
-| 4 - Moderate |             |
-| 6 - Severe   |             |
+| Type         | Description                       |
+| ------------ | --------------------------------- |
+| 2 - Mild     |                                   |
+| 4 - Moderate | slapped by rock monster (3 shift) |
+| 6 - Severe   |                                   |

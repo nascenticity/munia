@@ -4,7 +4,7 @@
 
 | Fate Points | Refresh |
 | ----------- | ------- |
-| 1           | 3       |
+| 4           | 3       |
 ### Aspects
 
 | Aspect       | Description                                                                   |
@@ -35,10 +35,10 @@ All other skills rolled as Mediocre (+0)
 
 ### Stress
 
-|                     |  1  |  2  |  3  |  4  |
-| ------------------: | :-: | :-: | :-: | :-: |
-| Physical (Physique) |     |     |     |     |
-|       Mental (Will) |     |     |     |     |
+|                     |  1  |           2            |  3  |  4  |
+| ------------------: | :-: | :--------------------: | :-: | :-: |
+| Physical (Physique) |     | rock monster (2 shift) |     |     |
+|       Mental (Will) |     |                        |     |     |
 
 ### Consequences
 

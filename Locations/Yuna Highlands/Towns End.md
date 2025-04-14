@@ -1,5 +1,5 @@
 # Description 
-A small town on the edge of the great wilderness that forms the western border of the [New Yunaean nation](../../Factions/New%20Yunaean%20nation.md). During the years of war before the Reunification, the village maintained its freedom from the various factions and stood as a refuge for those displaced by fighting. Its name is said to refer to either its perceived status as the last outpost of civilization for people traveling westward… or as the last town standing when others were destroyed by war.
+A small town on the edge of the great wilderness that forms the western border of the [New Yunaean government](../../Factions/New%20Yunaean%20government.md). During the years of war before the Reunification, the village maintained its freedom from the various factions and stood as a refuge for those displaced by fighting. Its name is said to refer to either its perceived status as the last outpost of civilization for people traveling westward… or as the last town standing when others were destroyed by war.
 
 Ruled by a religious leader (fey cult?)
 
