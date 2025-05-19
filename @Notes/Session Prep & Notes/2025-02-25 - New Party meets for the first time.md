@@ -12,7 +12,7 @@ Or what if this all already happened? with poor Mr. Dittles along for the ride a
 
 Stuff to make character sheets for:
 Airship (name?)
-[Towns End](../../Locations/Yuna%20Highlands/Towns%20End.md) 
+[Towns End](../../Locations/Yuna%20Highlands/Towns%20End/Towns%20End.md) 
 Yuna Kingdom
 ???
 
@@ -35,7 +35,7 @@ spider-man pointing meme
 +1 fate point to Maritza for accepting a compel to go to the mines (4)
 +1 fate point to Myla for Void drawing a map
 
-> Last session (2/25): We began in [Towns End](../../Locations/Yuna%20Highlands/Towns%20End.md), a frontier town we’ve developed in some earlier games.
+> Last session (2/25): We began in [Towns End](../../Locations/Yuna%20Highlands/Towns%20End/Towns%20End.md), a frontier town we’ve developed in some earlier games.
 > 
 > Mr. Dittles was hot on Maritza’s trail - he had heard something about her visiting a mine in the area. As he entered the local inn to ask for directions, he completely overlooked the familiar-looking robin enjoying drinks with her bestie. Mr. Dittles approached the bestie for information but got kicked out of the bar for being too aggressive. He did get directions. though.
 > 

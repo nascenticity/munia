@@ -52,16 +52,16 @@ turn order:
 - [x] character sheet for ernie ✅ 2025-04-13
 - [x] look up - success/failure results for each of the four actions (overcome, create an advantage, fight, defend) ✅ 2025-04-13
 - [x] check that character sheets are synced
-- [ ] come up with some potential compels to use on the characters
+- [x] come up with some potential compels to use on the characters ✅ 2025-04-14
 - [ ] world/setting aspects???
 - [x] first aid kit??
 - [x] serious consequence for mr dittles - what is it and how does he get rid of it??? ✅ 2025-04-13
 - [ ] do mr dittles shapeshifting abilities need mechanics?
 - [ ] what is the political structure of this setting? a monarchy??? lol
 - [ ] calendar needs month names to work properly i think
-- [ ] update website:
+- [x] update website: ✅ 2025-04-13
 	- [x] run python script
-	- [ ] commit & push changes
+	- [x] commit & push changes ✅ 2025-04-13
 
 Session whiteboard:
 

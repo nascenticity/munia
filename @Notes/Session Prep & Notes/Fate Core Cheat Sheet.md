@@ -1,13 +1,12 @@
-
 # Actions
 The four types of action rolls: overcome, create an advantage, attack, and defend. All are 4df + any skill or aspect bonuses.
 
-|                    | Overcome                                            | Create Advantage                                                                  | Attack                                                                                      | Defend                   |
-| ------------------ | --------------------------------------------------- | --------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ |
-| Fail               | Choose 1:<br>- failure<br>- succeed w/ serious cost | Choose 1:<br>- failure <br>- succeed w/ free invoke available against you (by GM) | - failure                                                                                   | - failure                |
-| Tie                | - succeed w/ minor cost                             | - recieve boost instead of aspect                                                 | - cause no harm but gain a boost                                                            | - grant opponent a boost |
-| Succeed            | - succeed w/ no cost                                | - create situation aspect w/ free invocation                                      | - deal damage according to shift value                                                      | - success                |
-| Succeed with Style | - succeed w/ boost                                  | - create a situation aspect w/ two free invocations                               | Choose 1:<br>- succeed as normal<br>- sacrifice one point of damage to gain a boost as well | - succeed & gain a boost |
+|                    | Overcome                                            | Create Advantage                                                                          | Attack                                                                                      | Defend                   |
+| ------------------ | --------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------ |
+| Fail               | Choose 1:<br>- failure<br>- succeed w/ serious cost | Choose 1:<br>- failure <br>- succeed w/ free invoke available against you (by GM/enemies) | - failure                                                                                   | - failure                |
+| Tie                | - succeed w/ minor cost                             | - recieve boost instead of aspect                                                         | - cause no harm but gain a boost                                                            | - grant opponent a boost |
+| Succeed            | - succeed w/ no cost                                | - create situation aspect w/ free invocation                                              | - deal damage according to shift value                                                      | - success                |
+| Succeed with Style | - succeed w/ boost                                  | - create a situation aspect w/ two free invocations                                       | Choose 1:<br>- succeed as normal<br>- sacrifice one point of damage to gain a boost as well | - succeed & gain a boost |
 ### Skills
 Skills can apply to scenarios differently depending on which action you take.
 
@@ -44,7 +43,7 @@ Skills can apply to scenarios differently depending on which action you take.
 ### Stress
 - Stress is automatically reset once the combat is over and the characters have time to rest
 ### Consequences
-- To heal a consequence, succeed at an overcome action related to the healing process
+- To heal a consequence, succeed at an overcome action {using some skill} related to the healing process
 	- Mild - Fair (+2) difficulty
 	- Moderate - Great (+4) difficulty
 	- Severe - Fantastic (+6) difficulty
@@ -75,3 +74,4 @@ Achieving a major milestone confers the benefits of a ==significant== milestone 
 - Take an additional point of ==refresh==, which allows you to immediately buy a new ==stunt== or keep it in order to give yourself more fate points at the beginning of a session.
 - Advance a ==skill== beyond the campaign’s current skill ==cap==, if you’re able to, thus increasing the skill cap.
 - ==Rename== your character’s high concept if you desire.
+

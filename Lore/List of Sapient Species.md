@@ -6,3 +6,4 @@
 6. [Birdfolk](Birdfolk.md)
 7. Pelagians/Camestians
 8. Leonids
+9. Loxodon (elephant folk)

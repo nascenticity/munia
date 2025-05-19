@@ -4,7 +4,7 @@
 
 | Fate Points | Refresh |
 | ----------- | ------- |
-| 3           | 2       |
+| 2           | 2       |
 ### Aspects
 
 | Aspect       | Description                                         |
@@ -17,13 +17,13 @@
 
 ### Skills
 
-| **Skill Tier** |         |             |          |       |
-| -------------: | ------- | ----------- | -------- | ----- |
-|    Superb (+5) | ---     | ---         | ---      | ---   |
-|     Great (+4) | Will    | ---         | ---      | ---   |
-|      Good (+3) | Lore    | Investigate | ---      | ---   |
-|      Fair (+2) | Provoke | Decieve     | Contacts |       |
-|   Average (+1) | Rapport | Drive       | Stealth  | Fight |
+| **Skill Tier** |         |             |       |          |
+| -------------: | ------- | ----------- | ----- | -------- |
+|    Superb (+5) | ---     | ---         | ---   | ---      |
+|     Great (+4) | Stealth | ---         | ---   | ---      |
+|      Good (+3) | Lore    | Investigate | ---   | ---      |
+|      Fair (+2) | Provoke | Decieve     | Fight | ---      |
+|   Average (+1) | Rapport | Drive       | Will  | Contacts |
 All other skills rolled as Mediocre (+0)
 ### Stunts
 
@@ -43,8 +43,8 @@ All other skills rolled as Mediocre (+0)
 
 ### Consequences
 
-| Type         | Description                       |
-| ------------ | --------------------------------- |
-| 2 - Mild     |                                   |
-| 4 - Moderate | slapped by rock monster (3 shift) |
-| 6 - Severe   |                                   |
+| Type         | Description                                                         |
+| ------------ | ------------------------------------------------------------------- |
+| 2 - Mild     |                                                                     |
+| 4 - Moderate | slapped in the face by rock monster (one recovery action + session) |
+| 6 - Severe   |                                                                     |

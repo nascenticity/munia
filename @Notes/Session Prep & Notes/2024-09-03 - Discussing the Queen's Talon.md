@@ -1,4 +1,4 @@
-no actual play happened, fleshed out [N3mo](../../Player%20Characters/Inactive/N3mo.md)’s backstory & discussed picking up [Esmeralda](../../Player%20Characters/Inactive/Esmeralda%20Azucari.md) and nemo’s adventure where they left off; suggested they hitchhike with a caravan toward their destination of [Towns End](../../Locations/Yuna%20Highlands/Towns%20End.md), maybe this is how they meet [Celosia](../../Player%20Characters/Inactive/Celosia.md)? 
+no actual play happened, fleshed out [N3mo](../../Player%20Characters/Inactive/N3mo.md)’s backstory & discussed picking up [Esmeralda](../../Player%20Characters/Inactive/Esmeralda%20Azucari.md) and nemo’s adventure where they left off; suggested they hitchhike with a caravan toward their destination of [Towns End](../../Locations/Yuna%20Highlands/Towns%20End/Towns%20End.md), maybe this is how they meet [Celosia](../../Player%20Characters/Inactive/Celosia.md)? 
 
 established that esmeralda’s cousin Io definitely snitched to their family about their iffy plans 
 

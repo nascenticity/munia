@@ -10,7 +10,7 @@
   "autoSuggestMinMatch": 0,
   "autoSuggestMaxItems": 20,
   "provideAccessKeys": true,
-  "useFilenameAsScheduledDate": true,
+  "useFilenameAsScheduledDate": false,
   "filenameAsScheduledDateFormat": "",
   "filenameAsDateFolders": [],
   "recurrenceOnNextLine": false,

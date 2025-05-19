@@ -1,7 +1,7 @@
 # Worlds Without Number Stats 
 Faction size: medium
 
-traders from the larger town to the east. Some folk of [Towns End](Towns%20End.md) hold an old grudge against their town for capitulating to the Jackals back in the day. They are often frustrated by the locals’ “superstition” regarding the forest, as it interferes with collecting resources.
+traders from the larger town to the east. Some folk of [Towns End](../Locations/Yuna%20Highlands/Towns%20End/Towns%20End.md) hold an old grudge against their town for capitulating to the Jackals back in the day. They are often frustrated by the locals’ “superstition” regarding the forest, as it interferes with collecting resources.
 
 Base of influence: [Naven](Naven.md) (17 hp)
 

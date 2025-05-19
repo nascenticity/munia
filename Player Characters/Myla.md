@@ -4,14 +4,14 @@
 
 | Fate Points | Refresh |
 | ----------- | ------- |
-| 4           | 3       |
+| 3           | 3       |
 ### Aspects
 
 | Aspect       | Description                                                                   |
 | ------------ | ----------------------------------------------------------------------------- |
 | High Concept | Cheerful hardworking miner, has sharp pickaxe                                 |
 | Trouble      | Toxic restless positivity                                                     |
-| #3           | OSHA violated. Fuming about the fumes.                                        |
+| #3           | Out of my mines                                                               |
 | #4           | Persuaded into selling coal to a hot robin that complemented her singing once |
 | #5           | Crystals make her impulsive/high esp if she mined it/shiny                    |
 
@@ -35,16 +35,15 @@ All other skills rolled as Mediocre (+0)
 
 ### Stress
 
-|                     |  1  |           2            |  3  |  4  |
-| ------------------: | :-: | :--------------------: | :-: | :-: |
-| Physical (Physique) |     | rock monster (2 shift) |     |     |
-|       Mental (Will) |     |                        |     |     |
+|                     |  1  |  2  |  3  |  4  |
+| ------------------: | :-: | :-: | :-: | :-: |
+| Physical (Physique) |     |     |     |     |
+|       Mental (Will) |     |     |     |     |
 
 ### Consequences
 
-| Type         | Description |
-| ------------ | ----------- |
-| 2 - Mild     |             |
-| 2 - Mild     |             |
-| 4 - Moderate |             |
-| 6 - Severe   |             |
+| Type         | Description       |
+| ------------ | ----------------- |
+| 2 - Mild     |                   |
+| 4 - Moderate | patched carapace* |
+| 6 - Severe   |                   |

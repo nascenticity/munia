@@ -1,0 +1,3 @@
+- Based in [Towns End](../../Locations/Yuna%20Highlands/Towns%20End/Towns%20End.md)
+- formed during the Quiet Year, in response to odd happenings in the woods
+- are probably the reason there are rumors town used dark magic to fight off the bandits in the old days

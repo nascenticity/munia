@@ -1,4 +1,4 @@
-In-game day 8?
+~~In-game day 8?
 Month 5 Day 11 in lunar calendar
 # ~~Prep~~
 ~~The scenario:~~ 

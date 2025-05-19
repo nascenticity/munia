@@ -42,16 +42,15 @@ All other skills rolled as Mediocre (+0)
 
 ### Stress
 
-|                     |  1  |           2            |  3  |  4  |
-| ------------------: | :-: | :--------------------: | :-: | :-: |
-| Physical (Physique) |     | rock monster (2 shift) |     |     |
-|       Mental (Will) |     |                        |     |     |
+|                     |  1  |  2  |  3  |  4  |
+| ------------------: | :-: | :-: | :-: | :-: |
+| Physical (Physique) |     |     |     |     |
+|       Mental (Will) |     |     |     |     |
 
 ### Consequences
 
-| Type         | Description |
-| ------------ | ----------- |
-| 2 - Mild     |             |
-| 2 - Mild     |             |
-| 4 - Moderate |             |
-| 6 - Severe   |             |
+| Type         | Description                                      |
+| ------------ | ------------------------------------------------ |
+| 2 - Mild     |                                                  |
+| 4 - Moderate | found a new cape, even if its not Coouie Vuiton* |
+| 6 - Severe   | No longer has a tail. Assholes.                  |

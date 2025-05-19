@@ -88,7 +88,7 @@ The backing of the Empire was critical to the current ruler coming to power
 
 ## Towns’ End (Village & Surrounding Farmland)
 
-[[Locations/Yuna Highlands/Towns End]]
+[[Towns End/Towns End]]
 ## [Naven](Naven.md) [major city]
 
 St. Pigeonation’s school of magic  

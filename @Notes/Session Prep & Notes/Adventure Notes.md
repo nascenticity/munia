@@ -1,0 +1,5 @@
+On Day 5 of Summer 2, 10,728, the Towns End mines are invaded by Earth Elementals - summoned by members of the Fey Cult, who want outside business interests in the local resources to cease. After all workers are driven out of the mines, the elementals guard the major entrance(s), and are combative towards anyone who comes too close.
+
+The cultists opened a portal inside the mine, to be triggered at a specific time to let creatures through. On the other side is the Fey Realm (not to be confused with D&D's Feywild) where time and space work differently. Visitors encounter classic problems such as: coming back to where they started despite walking in a straight line; walking towards a landmark but never getting any closer; environments that react to them and try to obstruct them in ways that are too active to be a coincidence.
+
+To dismiss the portal, a magical practitioner must cast a spell

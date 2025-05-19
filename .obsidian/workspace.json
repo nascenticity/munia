@@ -8,65 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2d39381e21d44eaa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Notes/Session Prep & Notes/2025-04-06 - Clearing out the mines Part 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-04-06 - Clearing out the mines Part 1"
-            }
-          },
-          {
-            "id": "9987972c7ff898d0",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Locations/Yuna Highlands/Towns End.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Towns End"
-            }
-          },
-          {
             "id": "fe96f2b20e5b8c91",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Notes/Session Prep & Notes/Cheat Sheet.md",
+                "file": "@Notes/Session Prep & Notes/Fate Core Cheat Sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,38 +30,13 @@
               },
               "pinned": true,
               "icon": "lucide-file",
-              "title": "Cheat Sheet"
+              "title": "Fate Core Cheat Sheet"
             }
           },
           {
-            "id": "8add833053ae631e",
+            "id": "3cee26a4e2dff6d9",
             "type": "leaf",
             "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Notes/Session Prep & Notes/2025-04-13.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2025-04-13"
-            }
-          },
-          {
-            "id": "0150ee82f1797c10",
-            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
@@ -128,14 +51,112 @@
                   "showSearch": false,
                   "searchQuery": "",
                   "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Session Prep & Notes"
+            }
+          },
+          {
+            "id": "7c5921829f70926d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Notes/Session Prep & Notes/2025-05-18.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
                   "unlinkedCollapsed": true
                 }
               },
               "icon": "lucide-file",
-              "title": "Session Prep & Notes"
+              "title": "2025-05-18"
+            }
+          },
+          {
+            "id": "65c7cc31205f7a53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Notes/Session Prep & Notes/Adventure Notes.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Adventure Notes"
+            }
+          },
+          {
+            "id": "bcad6d16f2c9d7c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/Eugenia Lothan.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Eugenia Lothan"
+            }
+          },
+          {
+            "id": "2290820b0755edae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Maritza Reddington.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Maritza Reddington"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -476,16 +497,22 @@
               "state": {
                 "calendar": "ID_0a590bf8d87b",
                 "ephemeral": {
+                  "viewing": {
+                    "day": 11,
+                    "month": 4,
+                    "year": 10728
+                  },
                   "viewState": 1,
                   "displaying": {
-                    "day": 8,
+                    "day": 10,
                     "month": 4,
                     "year": 10728
                   },
                   "displayDayNumber": false,
                   "displayMoons": true
                 },
-                "id": "ID_b83b5acadbfb"
+                "id": "ID_b83b5acadbfb",
+                "child": "ID_197ae8a9d829"
               },
               "icon": "CALENDARIUM",
               "title": "Calendarium"
@@ -495,18 +522,18 @@
         "currentTab": 12
       },
       {
-        "id": "d4d6087c0e30e580",
+        "id": "95d00fe16e17d00b",
         "type": "tabs",
         "children": [
           {
-            "id": "69b5ee46b5c96598",
+            "id": "e2344f8f606f8fad",
             "type": "leaf",
             "state": {
               "type": "CALENDARIUM_AGENDA",
               "state": {
                 "calendar": "ID_0a590bf8d87b",
-                "id": "ID_c9baa82b2a5b",
-                "parent": "ID_2a88995bd8ab"
+                "id": "ID_197ae8a9d829",
+                "parent": "ID_b83b5acadbfb"
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
@@ -532,47 +559,49 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "2d39381e21d44eaa",
+  "active": "3cee26a4e2dff6d9",
   "lastOpenFiles": [
-    "docs/Locations/Yuna Highlands/Naven.html",
-    "docs/Locations/Yuna Highlands/Towns End.html",
-    "docs/Locations/Yuna Highlands/Brithen Mountains.html",
-    "docs/Locations/Yuna Highlands/Vesos Mountains.html",
-    "docs/Locations/Yuna Highlands/Yuna Highlands.html",
-    "docs/Locations/Pelagian Strait/Pelagian Strait.html",
-    "docs/Locations/Pelagian Strait/Free City of Camesté.html",
-    "docs/Locations/Pelagian Strait",
-    "docs/Locations/Ascarian Empire/Sanry Mountains.html",
-    "docs/Locations/Ascarian Empire/Pearlgrove Town.html",
-    "docs/Locations/Ascarian Empire/Mount Dagor.html",
+    "@Notes/Session Prep & Notes/2025-05-18.md",
     "@Notes/Session Prep & Notes/Session Prep & Notes.md",
-    "@Notes/Session Prep & Notes/2024-08-24 - Esmeralda & N3mo.md",
-    "@Notes/Session Prep & Notes/Cheat Sheet.md",
-    "@Notes/Session Prep & Notes/2025-04-13.md",
-    "@Notes/Session Prep & Notes/2024-09-03 - Discussing the Queen's Talon.md",
-    "@Notes/Session Prep & Notes/2025-04-06 - Clearing out the mines Part 1.md",
-    "@Notes/Session Prep & Notes/2025-03-23 - Hanging out.md",
-    "@Notes/Session Prep & Notes/2025-03-18 - Worldbuilding calendar creation.md",
-    "@Notes/Session Prep & Notes/2025-03-11 - Cheesecake & Lies (Significant Milestone).md",
-    "@Notes/Session Prep & Notes/2025-03-04 - Mr. Dittles takes out some monsters.md",
-    "@Notes/Session Prep & Notes/2025-02-25 - New Party meets for the first time.md",
-    "@Notes/Session Prep & Notes/_Game notes & records.md",
+    "@Notes/Session Prep & Notes/Fate Core Cheat Sheet.md",
+    "@Notes/Session Prep & Notes/Adventure Notes.md",
+    "People/Eugenia Lothan.md",
     "Player Characters/Maritza Reddington.md",
-    "Player Characters/Myla.md",
+    "@Notes/Game assets/Earth Elemental (fair) (Fate Core template).md",
+    "@Notes/Session Prep & Notes/2025-04-20 - Half a session.md",
+    "@Notes/Session Prep & Notes/2025-05-04 - Other Half.md",
+    "@Notes/Session Prep & Notes/2025-03-04 - Mr. Dittles takes out some monsters.md",
+    "@Notes/Session Prep & Notes/2025-03-11 - Cheesecake & Lies (Significant Milestone).md",
+    "@Notes/Session Prep & Notes/2025-03-18 - Worldbuilding calendar creation.md",
+    "Factions/People of Towns End/People of Towns End.md",
+    "Lore/List of Sapient Species.md",
+    "People/Hallan Drumwind.md",
+    "Lore/List of Deities.md",
+    "Campaign Notes.md",
+    "Factions/People of Towns End/Fey Cult.md",
+    "Factions/People of Towns End",
     "Player Characters/Mr. Dittles.md",
+    "Locations/Yuna Highlands/Towns End/the Rogue and Tome.md",
+    "Locations/Yuna Highlands/Towns End/Towns End.md",
+    "Locations/Yuna Highlands/Towns End",
+    "People/Eugene Lothan.md",
+    "People/Reeve of Townsend.md",
+    "Gallery/Pasted image 20250504221950.png",
+    "@Notes/Session Prep & Notes/2025-04-13 - Clearing out the Mines Part 2.md",
+    "@Notes/Session Prep & Notes/2025-03-23 - Hanging out.md",
+    "Player Characters/Myla.md",
+    "Gallery/Pasted image 20250413231215.png",
+    "docs/Player Characters/Inactive/_Inactive.html",
+    "docs/Player Characters/Inactive/N3mo.html",
+    "docs/Player Characters/Inactive/Esmeralda Azucari.html",
+    "docs/Player Characters/Inactive/Celosia.html",
+    "docs/Player Characters/Inactive",
+    "docs/Player Characters/Player Characters.html",
+    "docs/Player Characters/Myla.html",
+    "docs/Player Characters/Mr. Dittles.html",
     "Gallery/Pasted image 20250406224447.png",
     "Gallery/munia_airy.png",
-    "README.md",
-    "Lore/Lore.md",
-    "Player Characters/Player Characters.md",
-    "People/People.md",
     "Player Characters/Player Characters.canvas",
-    "History/History.md",
-    "Factions/Factions.md",
-    "Factions/Boatley Airships Inc..md",
-    "People/Ernie.md",
-    "Factions/_Factions.md",
-    "Locations/Yuna Highlands/Towns End.md",
     "Notes/Game notes & records/Cheat Sheet.canvas",
     "Gallery/munia_van_der_grinten.gif",
     "munia_van_der_grinten 1.gif",
@@ -580,8 +609,6 @@
     "docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 2.jpeg",
     "docs/Gallery/workshop_environment_as_state_nation_and_mutual_heritage_the_political_nature_of_mountain_soli 1.jpeg",
     "docs/Gallery/the-carpathians-1143376_1280.jpg",
-    "docs/Gallery/the-carpathians-1143376_1280 1.jpg",
-    "docs/Gallery/taul-tapului-retezat-mountains-1.jpg",
     "Untitled.canvas"
   ]
 }

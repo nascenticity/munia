@@ -1,0 +1,2 @@
+- main inn/tavern in [Towns End](Towns%20End.md)
+- run by [Eugene Lothan](../../../People/Eugene%20Lothan.md) & family
